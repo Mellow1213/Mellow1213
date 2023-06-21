@@ -1,4 +1,4 @@
-### Hi there 👋
+### 리드미 어케하는건데 👋
 
 <!--
 **Mellow1213/Mellow1213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
