@@ -3,7 +3,7 @@
 
 
 <!--- A B O U T  M E --->
-<h2>Hi, I'm Yechan Choi!<img src="https://media.giphy.com/media/TjaTrZlziu73ZZzgXj/giphy.gif" width="50">
+<h2>Hi, I'm Yechan Choi!<img src="https://media.giphy.com/media/TjaTrZlziu73ZZzgXj/giphy.gif" width="30">
 </h2>
 
 I am Game Developer & Designer in Korea.
