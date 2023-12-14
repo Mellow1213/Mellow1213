@@ -3,7 +3,7 @@
 
 
 <!--- A B O U T  M E --->
-<h2>Hi, I'm Yechan Choi!![giphy](https://github.com/Mellow1213/Mellow1213/assets/75158889/3ffaad50-aefd-49b9-b050-a2239cd35636)
+<h2>Hi, I'm Yechan Choi!<div style="width:100%;height:0;padding-bottom:98%;position:relative;"><iframe src="https://giphy.com/embed/TjaTrZlziu73ZZzgXj" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/cat-pop-popcat-TjaTrZlziu73ZZzgXj">via GIPHY</a></p>
 </h2>
 
 I am Game Developer & Designer in Korea.
