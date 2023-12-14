@@ -15,6 +15,7 @@
 * 🎮 Recently Interested in Game Theory & Game Designing, and VR
 * 📖 Currently Reading: "Collaborative Worldbuilding for Video Games"
 * 💬 Writings my studies about Game Designing & Tech, and personal thoughts in my Personal Blog
+  <a href="https://velog.io/@dpcks7282" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>  
 
 <!--- D E T A I L  I N F O R M A T I O N --->
 <details>
@@ -27,7 +28,6 @@
   <strong>Contact</strong>: dpcks7282@gmail.com      
 
   <h2>Skills & Stacks</h2>
-  <a href="https://velog.io/@dpcks7282" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>  
 
   <h2>Groups & Leaderships</h2>
   
