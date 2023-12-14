@@ -13,6 +13,7 @@
 * 📖 Currently Reading: "Collaborative Worldbuilding for Video Games"
 * 💬 Writings my studies about Game Designing & Tech, and personal thoughts in my Personal Blog
 
+* * *
 
 * 🎓 한림대학교 공과 대학에서 학사 과정 중입니다.
 * 🖥️ 현재 Graphics & Virtual Environment LAB.에서 일하는 중 입니다.
