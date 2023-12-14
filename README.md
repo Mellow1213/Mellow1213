@@ -3,7 +3,7 @@
 
 
 <!--- A B O U T  M E --->
-<h1>Hi, I'm Yechan Choi!<img src="https://media.giphy.com/media/TjaTrZlziu73ZZzgXj/giphy.gif" width="30">
+<h1>Hi, I'm Yechan Choi!  <img src="https://media.giphy.com/media/TjaTrZlziu73ZZzgXj/giphy.gif" width="30">
 </h1>
 
 **A Game Developer** and Learner, who wanna go to **the Best**
