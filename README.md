@@ -6,12 +6,14 @@
 <h2>Hi, I'm Yechan Choi!<img src="https://media.giphy.com/media/TjaTrZlziu73ZZzgXj/giphy.gif" width="30">
 </h2>
 
-**A Game Developer** and Learner, who wanna go to the Best
+**A Game Developer** and Learner, who wanna go to the Best<img src="https://media.giphy.com/media/oebo5waezwOIk6BTA9/giphy.gif" width="15">
 * 🎓 Bachelor's degree of CSE at Hallym University. 
 * 🖥️ Currently working in in Graphics & Virtual Environment Lab.
 * 🎮 Recently Interested in Game Theory & Game Designing, and VR
 * 📖 Currently Reading: "Collaborative Worldbuilding for Video Games"
 *  Writings my studies about Game Designing & Tech, and personal thoughts in my Personal Blog
+
+최고가 되어가는 중인 **게임 개발자**입니다<img src="https://media.giphy.com/media/oebo5waezwOIk6BTA9/giphy.gif" width="15">
 
 <!--- D E T A I L  I N F O R M A T I O N --->
 <details>
