@@ -4,5 +4,6 @@
 
 <!--- A B O U T  M E --->
 <h2>Hi, I'm Yechan Choi!</h2>
+
 I am Game Developer & Designer in Korea.
 
