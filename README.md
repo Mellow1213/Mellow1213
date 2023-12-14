@@ -9,6 +9,7 @@
 **A Game Developer** and Learner, who wanna go to **the Best**
 
 <h2>Information</h2>
+
 * 🎓 Bachelor's degree of CSE at Hallym University.
 * 🖥️ Currently working in in Graphics & Virtual Environment Lab.
 * 🎮 Recently Interested in Game Theory & Game Designing, and VR
