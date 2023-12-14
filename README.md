@@ -21,10 +21,10 @@
   <summary>More About...</summary>
   
   <h2>Info</h2>
-  Name: Yechan Choi / Mellow1213<br/>      
-  Age: 22 (23 in Korean Age)<br/>      
-  Major: Content IT, School of Computer Science, College of Informatics in Hallym University<br/>       
-  Contact: dpcks7282@gmail.com      
+  __Name__: Yechan Choi / Mellow1213<br/>      
+  __Age__: 22 (23 in Korean Age)<br/>      
+  __Major__: Content IT, School of Computer Science, College of Informatics in Hallym University<br/>       
+  __Contact__: dpcks7282@gmail.com      
 
   <h2>Skills & Stacks</h2>
   
