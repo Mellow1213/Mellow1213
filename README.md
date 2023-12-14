@@ -16,12 +16,11 @@
 
 
 <!--- A B O U T  M E --->
-<h1>Hi, I'm Yechan Choi!  <img src="https://media.giphy.com/media/TjaTrZlziu73ZZzgXj/giphy.gif" width="30">
-</h1>
+<h2>Hi, I'm Yechan Choi!  <img src="https://media.giphy.com/media/TjaTrZlziu73ZZzgXj/giphy.gif" width="30">
+</h2>
+<strong>A Game Developer</strong> and Learner, who wanna be <strong>The Best</strong><br><br>
 
-**A Game Developer** and Learner, who wanna go to **the Best**
-
-<h2>Information</h2>
+<h3>Information</h3>
 
 * 🎓 Bachelor's degree of CSE at Hallym University.
 * 🖥️ Currently working in in Graphics & Virtual Environment Lab.
