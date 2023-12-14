@@ -21,6 +21,8 @@
 * 📖 요즘 읽는 책: "Collaborative Worldbuilding for Video Games"
 * 💬 게임 개발 및 기획에 대한 공부 자료들과 여러 생각들을 개인 블로그에 기록하고 있습니다.
 
+* * *
+
 <!--- D E T A I L  I N F O R M A T I O N --->
 <details>
   <summary>More About...</summary>
