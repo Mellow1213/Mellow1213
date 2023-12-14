@@ -45,8 +45,8 @@
   <h2>Skills & Stacks</h2>
   Tools<br>
   <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=UNITY&logoColor=FFFFFF"/></a>
-  <img src="https://img.shields.io/badge/UNITY DOTS-000000?style=flat-square&logo=UNITY&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/UNREAL%20ENGINE-0E1128?style=flat-square&logo=UNREAL%20ENGINE&logoColor=FFFFFF"/>
+  <a href="https://unity.com/dots" target="_blank"><img src="https://img.shields.io/badge/UNITY DOTS-000000?style=flat-square&logo=UNITY&logoColor=FFFFFF"/></a>
+  <a href="https://www.unrealengine.com/en-US/" target="_blank"><img src="https://img.shields.io/badge/UNREAL%20ENGINE-0E1128?style=flat-square&logo=UNREAL%20ENGINE&logoColor=FFFFFF"/></a>
   <br>
 
   Languages<br>
