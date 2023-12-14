@@ -17,7 +17,7 @@
 <details>
   <summary>More About...</summary>
   <h2>Info</h2>
-  Name: Yechan Choi / Chris / Mellow23 
+  Name: Yechan Choi / Mellow1213 
   Age: 22 (23 in Korean Age)
   Major: Content IT, School of Computer Science, College of Informatics in Hallym University
   Contact: dpcks7282@gmail.com
