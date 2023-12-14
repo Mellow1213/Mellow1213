@@ -36,7 +36,7 @@
 
 
 <!--- P O R T P O L I O  &  B L O G (Implement Later) --->
-<!--->
+<!---
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
 <p align="center">
@@ -45,4 +45,4 @@
 <a href= "https://twitter.com/halffrost"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 <a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
 </p>
-<--->
+--->
