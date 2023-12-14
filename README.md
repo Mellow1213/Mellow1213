@@ -16,15 +16,6 @@
 * 📖 Currently Reading: "Collaborative Worldbuilding for Video Games"
 * 💬 Writings my studies about Game Designing & Tech, and personal thoughts in my Personal Blog
 
-* * *
-
-* 🎓 한림대학교 소프트웨어 학부에서 학사 과정 중입니다.
-* 🖥️ 현재 Graphics & Virtual Environment LAB.에서 일하는 중 입니다.
-* 🎮 요즘은 게임 이론과 기획, VR 기술에 대해 관심을 갖고 있습니다.
-* 📖 요즘 읽는 책: "Collaborative Worldbuilding for Video Games"
-* 💬 게임 개발 및 기획에 대한 공부 자료들과 여러 생각들을 개인 블로그에 기록하고 있습니다.
-
-
 <!--- D E T A I L  I N F O R M A T I O N --->
 <details>
   <summary>More About...</summary>
