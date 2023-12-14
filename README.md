@@ -8,7 +8,7 @@
 
 <h1 align="center">  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=1000&color=18AFFF&center=true&vCenter=true&width=435&height=50&lines=Game Development!;Game Design!;New Creative World & Experience!;All the Thing I Want to Make - It Continues Always"/>
+    <img src="https://readme-typing-svg.demolab.com?font=roboto&size=25&pause=1500&color=000000&center=true&vCenter=true&random=false&width=800&lines=Welcome+to+my+World!;Game+Design+%26+Development;New+Creative+World+%26+Experience;All+the+Thing+I+Want+-+It+Continues+Always">
   </a>
 </h1>
 
