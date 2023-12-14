@@ -43,7 +43,22 @@
   <strong>Contact</strong>: dpcks7282@gmail.com      
 
   <h2>Skills & Stacks</h2>
+  Tools<br>
+  <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=UNITY&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/UNITY DOTS-000000?style=flat-square&logo=UNITY&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/UNREAL%20ENGINE-0E1128?style=flat-square&logo=UNREAL%20ENGINE&logoColor=FFFFFF"/>
+  <br>
 
+  Languages<br>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/CSHARP-2C2255?style=flat-square&logo=CSHARP&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/JAVA-2C2255?style=flat-square&logo=JAVA&logoColor=FFFFFF"/>
+  
+  <br>
+
+  
   <h2>Groups & Leaderships</h2>
   
   <h2>Projects</h2>
