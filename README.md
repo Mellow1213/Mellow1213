@@ -27,7 +27,7 @@
   <strong>Contact</strong>: dpcks7282@gmail.com      
 
   <h2>Skills & Stacks</h2>
-  [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@dpcks7282)
+  <a href="https://velog.io/@dpcks7282" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>  
 
   <h2>Groups & Leaderships</h2>
   
