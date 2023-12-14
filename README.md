@@ -2,6 +2,19 @@
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMellow1213&count_bg=%23B7BDD1&title_bg=%235F99BC&icon=&icon_color=%23E7E7E7&title=Profile+View&edge_flat=false)
 
 
+
+
+<!--- A N I M A T E D   T E X T --->
+
+<h1 align="center">  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=40&pause=1000&color=18AFFF&center=true&vCenter=true&width=435&height=50&lines=Game Development!;Game Design!;New Creative World & Experience!;All the Thing I Want to Make - It Continues Always"/>
+  </a>
+</h1>
+
+
+
+
 <!--- A B O U T  M E --->
 <h1>Hi, I'm Yechan Choi!  <img src="https://media.giphy.com/media/TjaTrZlziu73ZZzgXj/giphy.gif" width="30">
 </h1>
@@ -16,6 +29,9 @@
 * 📖 Currently Reading: "Collaborative Worldbuilding for Video Games"
 * 💬 Writings my studies about Game Designing & Tech, and personal thoughts in my Personal Blog
   <a href="https://velog.io/@dpcks7282" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>  
+
+
+
 
 <!--- D E T A I L  I N F O R M A T I O N --->
 <details>
