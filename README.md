@@ -6,8 +6,14 @@
 <h2>Hi, I'm Yechan Choi!<img src="https://media.giphy.com/media/TjaTrZlziu73ZZzgXj/giphy.gif" width="30">
 </h2>
 
-**A Game Develop & Design** Learner from Korea.
+**A Game Developer** and Learner, who wanna go to the Best
+* Bachelor's degree of CSE/ContentIT at Hallym University, Korea. 
+* Now in Graphics & Virtual Environment Lab in Hallym University.
+* Recently Interest in Game Theory & Game Designing, and VR
+* Reading Now: <<Collaborative Worldbuilding for Video Games>>
 
+* 
+<!--- D E T A I L  I N F O R M A T I O N --->
 <details>
   <summary>More About...</summary>
 
