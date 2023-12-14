@@ -7,11 +7,11 @@
 </h2>
 
 **A Game Developer** and Learner, who wanna go to **the Best**
-* 🎓 Bachelor's degree of CSE at Hallym University. *
-* 🖥️ Currently working in in Graphics & Virtual Environment Lab.*
-* 🎮 Recently Interested in Game Theory & Game Designing, and VR*
-* 📖 Currently Reading: "Collaborative Worldbuilding for Video Games"*
-*  Writings my studies about Game Designing & Tech, and personal thoughts in my Personal Blog*
+* 🎓 Bachelor's degree of CSE at Hallym University.
+* 🖥️ Currently working in in Graphics & Virtual Environment Lab.
+* 🎮 Recently Interested in Game Theory & Game Designing, and VR
+* 📖 Currently Reading: "Collaborative Worldbuilding for Video Games"
+* 💬 Writings my studies about Game Designing & Tech, and personal thoughts in my Personal Blog
 
 <!--- D E T A I L  I N F O R M A T I O N --->
 <details>
