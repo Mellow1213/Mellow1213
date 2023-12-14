@@ -3,7 +3,8 @@
 
 
 <!--- A B O U T  M E --->
-<h2>Hi, I'm Yechan Choi!</h2>
+<h2>Hi, I'm Yechan Choi!![giphy](https://github.com/Mellow1213/Mellow1213/assets/75158889/3ffaad50-aefd-49b9-b050-a2239cd35636)
+</h2>
 
 I am Game Developer & Designer in Korea.
 
