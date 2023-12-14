@@ -7,15 +7,42 @@
 </h2>
 
 **A Game Developer** and Learner, who wanna go to the Best
-* Bachelor's degree of CSE/ContentIT at Hallym University, Korea. 
-* Now in Graphics & Virtual Environment Lab in Hallym University.
-* Recently Interest in Game Theory & Game Designing, and VR
-* Reading Now: <<Collaborative Worldbuilding for Video Games>>
+* 🎓 Bachelor's degree of CSE at Hallym University. 
+* 🖥️ Currently working in in Graphics & Virtual Environment Lab.
+* 🎮 Recently Interested in Game Theory & Game Designing, and VR
+* 📖 Currently Reading: "Collaborative Worldbuilding for Video Games"
+*  Writings my studies about Game Designing & Tech, and personal thoughts in my Personal Blog
 
-* 
 <!--- D E T A I L  I N F O R M A T I O N --->
 <details>
   <summary>More About...</summary>
+  <h2>Info</h2>
+  Name: Yechan Choi / Chris / Mellow23 
+  Age: 22 (23 in Korean Age)
+  Major: Content IT, School of Computer Science, College of Informatics in Hallym University
+  Contact: dpcks7282@gmail.com
 
-  Age: 22
+  <h2>Skills & Stacks</h2>
+  
+  <h2>Groups & Leaderships</h2>
+  
+  <h2>Projects</h2>
+  
+  <h2>Awards</h2>
+  
+  
+  
   </details>
+
+
+<!--- P O R T P O L I O  &  B L O G (Implement Later) --->
+<!--->
+<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>
+<p align="center">
+<a href= "https://github.com/halfrost/Halfrost-Field/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
+<a href= "https://www.linkedin.com/in/halffrost/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://twitter.com/halffrost"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+<a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+</p>
+<--->
