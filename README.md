@@ -44,9 +44,15 @@
 
   <h2>Skills & Stacks</h2>
   Tools<br>
-  <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=UNITY&logoColor=FFFFFF"/></a>
-  <a href="https://unity.com/dots" target="_blank"><img src="https://img.shields.io/badge/UNITY DOTS-000000?style=flat-square&logo=UNITY&logoColor=FFFFFF"/></a>
-  <a href="https://www.unrealengine.com/en-US/" target="_blank"><img src="https://img.shields.io/badge/UNREAL%20ENGINE-0E1128?style=flat-square&logo=UNREAL%20ENGINE&logoColor=FFFFFF"/></a>
+  <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=unity&logoColor=FFFFFF"/></a>
+  <a href="https://unity.com/dots" target="_blank"><img src="https://img.shields.io/badge/Unity DOTS-000000?style=flat-square&logo=UNITY&logoColor=FFFFFF"/></a>
+  <a href="https://www.unrealengine.com/en-US/" target="_blank"><img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=UNREAL%20ENGINE&logoColor=FFFFFF"/></a>
+  <a href="https://www.blender.org/" target="_blank"><img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=FFFFFF"/></a>
+  <a href="https://www.jetbrains.com/rider/" target="_blank"><img src="https://img.shields.io/badge/Rider-000000?style=flat-square&logo=rider&logoColor=FFFFFF"/></a>
+  <a href="https://visualstudio.microsoft.com/ko/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=FFFFFF"/></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=FFFFFF"/></a>
+  <a href="https://www.image-line.com/fl-studio/" target="_blank"><img src="https://img.shields.io/badge/FL%20Studio-000000?style=flat-square&logo=JAVA&logoColor=FFFFFF"/></a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=FFFFFF"/></a>
   <br>
 
   Languages<br>
