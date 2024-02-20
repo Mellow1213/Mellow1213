@@ -9,10 +9,10 @@
 <h3>Information</h3>
 
 * 🎓 Bachelor's degree of CSE at Hallym University.
-* 🖥️ Currently working in in Graphics & Virtual Environment Lab.
-* 🎮 Recently Interested in Game Theory & Game Designing, and VR
+* 🖥️ Currently Serving in the military as a Social Service Personnel.
+* 🎮 Recently Interested in Game Theory & Game Designing, and VR.
 * 📖 Currently Reading: "Collaborative Worldbuilding for Video Games"
-* 💬 Writings Studies about Game_Design, Tech_Stacks and Personal_Thoughts in Blog
+* 💬 Writings Studies about Game_Design, Tech_Stacks and Personal_Thoughts in Blog.
   <a href="https://velog.io/@dpcks7282" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>  
 
 
