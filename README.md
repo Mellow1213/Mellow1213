@@ -23,7 +23,7 @@
 
 <!--- D E T A I L  I N F O R M A T I O N --->
 <details>
-  <summary>More About me...</summary>
+  <summary><span style="color:blue">More About me...</span></summary>
   
   <h2>Info</h2>
   <strong>Name</strong>: Yechan Choi / Mellow1213<br>      
