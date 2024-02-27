@@ -12,7 +12,7 @@
 * 🖥️ Currently Serving in the military as a Social Service Personnel.
 * 🎮 Recently Interested in Game Theory, Game Designing and CS.
 * 📖 Currently Reading: "Game Design Workshop"
-* 💬 Writings Studies about Game_Design, Tech_Stacks and Personal_Thoughts in Blog.
+* 💬 Writings Studies about Game_Design, Tech_Stacks and Personal_Thoughts in Blog. (Blog in Progress - Stay Tuned!)
   <a href="https://mellow1213.github.io/" target="_blank"><img src="https://img.shields.io/badge/github blog-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://velog.io/@dpcks7282" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 
