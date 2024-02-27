@@ -16,8 +16,6 @@
   <a href="https://mellow1213.github.io/" target="_blank"><img src="https://img.shields.io/badge/github blog-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://velog.io/@dpcks7282" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
 
-  
-
 
 
 
@@ -51,16 +49,13 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/JAVA-2C2255?style=flat-square&logo=JAVA&logoColor=FFFFFF"/>
   
-  <br>
 
   
-  <h2>Groups & Leaderships</h2>
+  <h2>Groups & Leadership</h2>
   
   <h2>Projects</h2>
   
   <h2>Awards</h2>
-  
-  
   
   </details>
 
@@ -70,8 +65,8 @@
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
 <p align="center">
-<a href= "https://github.com/halfrost/Halfrost-Field/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "https://www.linkedin.com/in/halffrost/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "Portpolio URL"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
+<a href= "Think something to show me"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 <a href= "https://twitter.com/halffrost"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 <a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
 </p>
