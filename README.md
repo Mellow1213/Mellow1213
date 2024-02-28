@@ -74,7 +74,7 @@
   <summary><strong>2023</strong></summary>
 
    ⭐ **Main Project** ⭐
-   - [**VRhythm**](https://github.com/Mellow1213/2023_Capstone) <span title="2023 KCGS Conference, 학부우수포스터상">🥇</span>🥉(Mouse)
+   - [**VRhythm**](https://github.com/Mellow1213/2023_Capstone) <span title="2023 KCGS Conference, 학부우수포스터상">🥇</span>🥉
      - Unity 3D/Meta Quest HMD VR/IoT/Horror
      - 사용자의 HR(HeartRate)를 Smart Watch와 실시간 연동하여 HR 수치의 변동에 따라 콘텐츠가 변화하는 공포 게임
 
