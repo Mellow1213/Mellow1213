@@ -111,7 +111,6 @@
      - Unity 2D/WebGL
      - 학교 소개 및 동아리 추천 알고리즘 웹사이트 & 동아리방 안내를 위한 유니티 체험 콘텐츠
      - 한림대학교 SW Week SW동아리 전시회 / 금상(한림대학교 총장상)
-    <!--- 개발 기간: 2023.10.24 ~ 10.27--->
    - - - 
   </details>
   <details>
@@ -122,22 +121,18 @@
    - [**The HighLander**](https://github.com/Mellow1213/The_Highlander)  🥈🥉
      - Unity 3D/TPS/핵 앤 슬래쉬/하이퍼 액션
      - 적들이 몰려오는 웨이브를 가동시켜 에너지를 모으는 게임
-    <!--- 개발 기간: 2022.11.01 ~ 11.15--->
    - [**Phantom Thief**](https://github.com/Mellow1213/2022_UE_Project)
      - Unreal5 Blueprint/잠입 액션/이스케이프 룸
      - 박물관에 잠입하여 경비를 피해 다이아몬드를 훔치는 게임
-    <!--- 개발 기간: 2022.09.15 ~ 10.31--->
      
      <br>
    🔷 **2022 Sub Project** 🔷
    - [**Alien Invader**](https://github.com/Mellow1213/Alien_Invader) 
      - Unity 3D/Cardboard VR/Shooter/Defense
      - 우주선을 공격하는 외계인을 레이저포로 제거하는 디펜스 게임
-     <!--- - 개발 기간: 2022.04.01 ~ 04.14--->
    - [**HeliFire**](https://github.com/Mellow1213/VRProject_2022_1) 
      - Unity 3D/Cardboard VR/Shooter
      - 헬리콥터의 기관총으로 적 우주선과 기지, 보스를 처치하는 게임
-     <!--- - 개발 기간: 2022.04.01 ~ 05.31--->
    - [**Burger4Rest**](https://github.com/Mellow1213/Raon_WorkShop_2022)
      - Unity 3D/Casual/Tycoon
      - 끊임없이 오는 손님들에게 알맞는 햄버거를 만들어주는 게임
