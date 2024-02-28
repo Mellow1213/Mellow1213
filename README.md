@@ -74,6 +74,9 @@
   <summary><strong>2023</strong></summary>
 
    ⭐ **Main Project** ⭐
+   - [**VRhythm**](https://github.com/Mellow1213/2023_Capstone) <span title="2023 KCGS Conference, 학부우수포스터상">🥇</span>🥉(Mouse)
+     - Unity 3D/Meta Quest HMD VR/IoT/Horror
+     - 사용자의 HR(HeartRate)를 Smart Watch와 실시간 연동하여 HR 수치의 변동에 따라 콘텐츠가 변화하는 공포 게임
 
     <br>
    🔷 **Sub Project** 🔷
@@ -86,8 +89,8 @@
   <details>
   <summary><strong>2022</strong></summary>
 
-   ⭐ **Main Project** ⭐
-   - [**The HighLander**](https://github.com/Mellow1213/The_Highlander) 
+   ⭐ **Main Project** ⭐  
+   - [**The HighLander**](https://github.com/Mellow1213/The_Highlander)  🥈🥉
      - Unity 3D/TPS/핵 앤 슬래쉬/하이퍼 액션
      - 적들이 몰려오는 웨이브를 가동시켜 에너지를 모으는 게임
      - 개발 기간: 2022.11.01 ~ 11.15
@@ -95,8 +98,8 @@
      - Unreal5 Blueprint/잠입 액션/이스케이프 룸
      - 박물관에 잠입하여 경비를 피해 다이아몬드를 훔치는 게임
      - 개발 기간: 2022.09.15 ~ 10.31
-
-    <br>
+     
+     <br>
    🔷 **Sub Project** 🔷
    - [**Alien Invader**](https://github.com/Mellow1213/Alien_Invader) 
      - Unity 3D/Cardboard VR/Shooter/Defense
@@ -114,8 +117,8 @@
      - Unity 3D/Vuforia AR/Simulation/Virtual Pet
      - AR 마커를 사용해 풍선 펫을 키우는 게임
      - 개발 기간: 2022.10.01 ~ 10.31
-       
-    <br>
+     
+     <br>
    🌱 **Spin-Off Project** 🌱
    - [Caerang 30th RandomPick](https://github.com/Mellow1213/Caerang_30th_RandomPick)
      - Unity 2D/Random Picker
