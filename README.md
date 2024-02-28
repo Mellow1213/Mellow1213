@@ -6,6 +6,13 @@
 </h2>
 <strong>A Game Developer</strong> and Learner, who wanna be <strong>The Best</strong><br><br>
 
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mellow1213&hide_langs_below=1&theme=default&line_height=27&layout=compact" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mellow1213&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="Mellow1213's Github Stats" />
+
+
+
 <h3>Information</h3>
 
 * 🎓 Bachelor's degree of CSE at Hallym University.
@@ -187,8 +194,12 @@
   </details>
   
   <h2>Awards</h2>
+
+  
+  
   
   </details>
+
 
 
 <!--- P O R T P O L I O  &  B L O G (Implement Later) --->
