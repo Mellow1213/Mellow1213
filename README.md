@@ -12,9 +12,10 @@
 * 🖥️ Currently Serving in the military as a Social Service Personnel.
 * 🎮 Recently Interested in Game Theory, Game Designing and CS.
 * 📖 Currently Reading: "Game Design Workshop"
-* 💬 Writing about Game design, Tech stacks and Personal thoughts in Blog. (Blog in Progress - Stay Tuned!)    
+* 💬 Writing about Game design, Tech stacks and Personal thoughts in Blog.    
   <a href="https://mellow1213.github.io/" target="_blank"><img src="https://img.shields.io/badge/github blog-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://velog.io/@dpcks7282" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+  <a href="https://velog.io/@dpcks7282" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>   
+  (Blog in Progress - Stay Tuned!) 
 
 
 
@@ -74,12 +75,16 @@
 
    ⭐ **Main Project** ⭐
 
-    
+    <br>
    🔷 **Sub Project** 🔷
+
+    <br>
+   🌱 **Spin-Off Project** 🌱
+
 
   </details>
   <details>
-    <summary><strong>2022</strong></summary>
+  <summary><strong>2022</strong></summary>
 
    ⭐ **Main Project** ⭐
    - [**The HighLander**](https://github.com/Mellow1213/The_Highlander) 
@@ -91,8 +96,7 @@
      - 박물관에 잠입하여 경비를 피해 다이아몬드를 훔치는 게임
      - 개발 기간: 2022.09.15 ~ 10.31
 
-
-     <br>
+    <br>
    🔷 **Sub Project** 🔷
    - [**Alien Invader**](https://github.com/Mellow1213/Alien_Invader) 
      - Unity 3D/Cardboard VR/Shooter/Defense
@@ -111,7 +115,12 @@
      - AR 마커를 사용해 풍선 펫을 키우는 게임
      - 개발 기간: 2022.10.01 ~ 10.31
        
-     <br>
+    <br>
+   🌱 **Spin-Off Project** 🌱
+   - [Caerang 30th RandomPick](https://github.com/Mellow1213/Caerang_30th_RandomPick)
+     - Unity 2D/Random Picker
+     - C.愛.랑 30주년 공식 2부 행사 경품 추천 이벤트 프로그램 / 학번 랜덤 뽑기
+     - 개발 기간: 2022.11.25 ~ 11.26
    
   </details>
   <details>
