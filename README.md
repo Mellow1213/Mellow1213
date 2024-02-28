@@ -60,36 +60,62 @@
   <details>
   <summary><strong>2024</strong></summary>
 
-   ⭐ **Main Project** ⭐
+   ⭐ **2024 Main Project** ⭐
+   - [**Bullet Delivery(가제)**](https://github.com/Lithium07z/2024_Capstone_Project) ⬅️ **Currently Working On**
+   - [**Star Saliors(가제)**](https://github.com/Mellow1213/Star-Saliors)
+    
+   🔷 **2024 Sub Project** 🔷
 
     
-   🔷 **Sub Project** 🔷
-
-    
-   🌱 **Spin-Off Project** 🌱
+   🌱 **2024 Spin-Off Project** 🌱
+   - [**Life Archive(가제)**](https://github.com/Mellow1213/Life-Archive)
 
    
   </details>
   <details>
   <summary><strong>2023</strong></summary>
 
-   ⭐ **Main Project** ⭐
+   ⭐ **2023 Main Project** ⭐
    - [**VRhythm**](https://github.com/Mellow1213/2023_Capstone) <span title="2023 KCGS Conference, 학부우수포스터상">🥇</span>🥉
-     - Unity 3D/Meta Quest HMD VR/IoT/Horror
+     - Unity 3D/HMD VR/IoT/Horror
      - 사용자의 HR(HeartRate)를 Smart Watch와 실시간 연동하여 HR 수치의 변동에 따라 콘텐츠가 변화하는 공포 게임
-
-    <br>
-   🔷 **Sub Project** 🔷
-
-    <br>
-   🌱 **Spin-Off Project** 🌱
-
+     - [2023 KCGS Conference](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11492789) / 학부우수포스터상(공동 저자) 
+     - 한림대학교 2023 SW캡스톤 경진대회 / 장려상
+     - 개발 기간: 2023.01.01 ~ 23.05.31
+    
+     <br>
+   🔷 **2023 Sub Project** 🔷
+   - [**Coin Lapse**](https://github.com/Mellow1213/Coin_Lapse) 🥇
+     - Unity 3D/FPS/Defense
+     - 소지 금액 자체가 많을 수록 강력해지고, 적을 수록 약해지는 은행 강도
+     - 한림 오픈소스 SW 해커톤 대회 / 금상
+     - 개발 기간: 2023.07.31 ~ 08.01
+   - [**Word Runner**](https://github.com/Mellow1213/Word-Runner)
+     - Unity 3D/Runner/Action
+     - 날아오는 글자를 타이핑을 쳐서 파괴하며 전진하는 게임
+     - 개발 기간: 2023.11.01 ~ 11.15
+   - [**HorseBack N Overtaken**](https://github.com/Mellow1213/HorseBack-N-Overtaken)
+     - Unity 3D/HMD VR/Horse Riding/Shooter
+     - VR을 쓰고 말을 타는 서부의 총잡이가 되는 게임
+     - 개발 기간: 2023.12.01 ~ 개발 
+     <br>
+   🌱 **2023 Spin-Off Project** 🌱 
+   - [**VR Scent Test Project**](https://dl.acm.org/doi/10.1145/3611659.3616896) 🥇
+     - Unity 3D/Arduino/HMD VR/Test Simulation
+     - VR 장착형 향기 분사 시스템 테스트를 위한 실험 세션 프로젝트
+     - [2023 KCGS Conference](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11492727) / 석사논문우수상(2저자)
+     - 개발 기간: 2023.05.01 ~ 23.11.31
+   - [**림딩동**](https://github.com/Mellow1213/WebGL_Limdingdong) 🥇
+     - Unity 2D/WebGL
+     - 학교 소개 및 동아리 추천 알고리즘 웹사이트 & 동아리방 안내를 위한 유니티 체험 콘텐츠
+     - 한림대학교 SW Week SW동아리 전시회 / 금상(한림대학교 총장상)
+     - 개발 기간: 2023.10.24 ~ 10.27
 
   </details>
   <details>
   <summary><strong>2022</strong></summary>
 
-   ⭐ **Main Project** ⭐  
+   ⭐ **2022 Main Project** ⭐  
    - [**The HighLander**](https://github.com/Mellow1213/The_Highlander)  🥈🥉
      - Unity 3D/TPS/핵 앤 슬래쉬/하이퍼 액션
      - 적들이 몰려오는 웨이브를 가동시켜 에너지를 모으는 게임
@@ -100,7 +126,7 @@
      - 개발 기간: 2022.09.15 ~ 10.31
      
      <br>
-   🔷 **Sub Project** 🔷
+   🔷 **2022 Sub Project** 🔷
    - [**Alien Invader**](https://github.com/Mellow1213/Alien_Invader) 
      - Unity 3D/Cardboard VR/Shooter/Defense
      - 우주선을 공격하는 외계인을 레이저포로 제거하는 디펜스 게임
@@ -119,8 +145,8 @@
      - 개발 기간: 2022.10.01 ~ 10.31
      
      <br>
-   🌱 **Spin-Off Project** 🌱
-   - [Caerang 30th RandomPick](https://github.com/Mellow1213/Caerang_30th_RandomPick)
+   🌱 **2022 Spin-Off Project** 🌱
+   - [**Caerang 30th RandomPick**](https://github.com/Mellow1213/Caerang_30th_RandomPick)
      - Unity 2D/Random Picker
      - C.愛.랑 30주년 공식 2부 행사 경품 추천 이벤트 프로그램 / 학번 랜덤 뽑기
      - 개발 기간: 2022.11.25 ~ 11.26
@@ -129,14 +155,14 @@
   <details>
   <summary><strong>2021</strong></summary><br>
    
-   ⭐ **Main Project** ⭐
+   ⭐ **2021 Main Project** ⭐
    - [**Rhythm In**](https://github.com/hhj3258/Unity_Rhythm_In) 
      - Unity 2D/Platformer/Rhythm
      - 노래 박자에 맞춰 플레이어에게 달려오는 몬스터를 없애는 게임
      - 개발 기간: 2021.03.07 ~ 05.31
 
      <br>
-   🔷 **Sub Project** 🔷
+   🔷 **2021 Sub Project** 🔷
    - [**Arcane_Savior**](https://github.com/Mellow1213/Arcane_Savior)
      - Unity 3D/FPS/Defense
      - 일정 시간 동안 계속 몰려오는 적들로부터 수정을 지키는 게임
@@ -151,7 +177,7 @@
   <details>
   <summary><strong>2020</strong></summary><br>
 
-   ⭐ **Main Project** ⭐
+   ⭐ **2020 Main Project** ⭐
    - [**MagiColor**](https://github.com/Mellow1213/RaonProject_2020) 
      - Unity 2D/Platformer/Shooter
      - 떨어지는 블록을 배경색과 일치시키게 만들어서 살아남는 미니게임
