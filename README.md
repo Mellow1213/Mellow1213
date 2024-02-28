@@ -60,6 +60,7 @@
   <details>
   <summary><strong>2024</strong></summary>
 
+   - - -
    ⭐ **2024 Main Project** ⭐
    - [**Bullet Delivery(가제)**](https://github.com/Lithium07z/2024_Capstone_Project) ⬅️ **Currently Working On**
    - [**Star Saliors(가제)**](https://github.com/Mellow1213/Star-Saliors)
@@ -70,11 +71,12 @@
    🌱 **2024 Spin-Off Project** 🌱
    - [**Life Archive(가제)**](https://github.com/Mellow1213/Life-Archive)
 
-   
+   - - - 
   </details>
   <details>
   <summary><strong>2023</strong></summary>
 
+   - - - 
    ⭐ **2023 Main Project** ⭐
    - [**VRhythm**](https://github.com/Mellow1213/2023_Capstone) <span title="2023 KCGS Conference, 학부우수포스터상">🥇</span>🥉
      - Unity 3D/HMD VR/IoT/Horror
@@ -110,11 +112,12 @@
      - 학교 소개 및 동아리 추천 알고리즘 웹사이트 & 동아리방 안내를 위한 유니티 체험 콘텐츠
      - 한림대학교 SW Week SW동아리 전시회 / 금상(한림대학교 총장상)
     <!--- 개발 기간: 2023.10.24 ~ 10.27--->
-
+   - - - 
   </details>
   <details>
   <summary><strong>2022</strong></summary>
 
+   - - - 
    ⭐ **2022 Main Project** ⭐  
    - [**The HighLander**](https://github.com/Mellow1213/The_Highlander)  🥈🥉
      - Unity 3D/TPS/핵 앤 슬래쉬/하이퍼 액션
@@ -150,11 +153,12 @@
      - Unity 2D/Random Picker
      - C.愛.랑 30주년 공식 2부 행사 경품 추천 이벤트 프로그램 / 학번 랜덤 뽑기
      <!--- - 개발 기간: 2022.11.25 ~ 11.26--->
-   
+   - - -
   </details>
   <details>
   <summary><strong>2021</strong></summary><br>
-   
+
+   - - - 
    ⭐ **2021 Main Project** ⭐
    - [**Rhythm In**](https://github.com/hhj3258/Unity_Rhythm_In) 
      - Unity 2D/Platformer/Rhythm
@@ -172,18 +176,19 @@
      - 좀비섬에서 재료들을 모아 다양한 방법으로 탈출하는 게임
      <!--- - 개발 기간: 2021.09.01 ~ 11.31--->
 
-            
+  - - -  
   </details>
   <details>
   <summary><strong>2020</strong></summary><br>
 
+   - - - 
    ⭐ **2020 Main Project** ⭐
    - [**MagiColor**](https://github.com/Mellow1213/RaonProject_2020) 
      - Unity 2D/Platformer/Shooter
      - 떨어지는 블록을 배경색과 일치시키게 만들어서 살아남는 미니게임
      <!--- - 개발 기간: 2020.10.01 ~ 11.10 --->
        
-       
+     
   </details>
   
   <h2>Awards</h2>
