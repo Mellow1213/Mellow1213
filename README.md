@@ -211,10 +211,10 @@
   <i>Take a look at my repositories and let's get in touch!</i>
 
 <p align="center">
-<a href= "https://github.com/halfrost/Halfrost-Field/"><img src="https://img.icons8.com/material-outlined/30/000000/github.png"/></a>
-<a href= "https://www.linkedin.com/in/halffrost/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://twitter.com/halffrost"><img src="https://img.icons8.com/material-outlined/30/000000/instagram.png"/></a>
-<a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
+<a href= "https://www.linkedin.com/in/mellow1213/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://www.instagram.com/yechan_c27/"><img src="https://img.icons8.com/material-outlined/30/000000/instagram.png"/></a>
+<a href= "https://mellow1213.github.io/"><img src="https://img.icons8.com/material-outlined/30/000000/github.png"/></a>
+<a href= "https://velog.io/@dpcks7282/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
 </p>
 
 <p  align="center">
