@@ -8,10 +8,10 @@
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mellow1213&show_icons=true&count_private=true&include_all_commits=true&theme=shadow_blue&line_height=20" alt="Mellow1213's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mellow1213&hide_langs_below=1&theme=shadow_blue&line_height=26&layout=compact" />
-<img align="center" src="https://streak-stats.demolab.com?user=Mellow1213&hide_langs_below=1&theme=shadow_green&line_height=20&layout=compact" /> 
-<img align="center" src="http://mazassumnida.wtf/api/generate_badge?boj=dpcks7282&show_icons=true&count_private=true&include_all_commits=true&line_height=21"/>
+<img align="center" src="http://mazassumnida.wtf/api/generate_badge?boj=dpcks7282&show_icons=true&count_private=true&include_all_commits=true&line_height=21"/><br><br>
+<img align="center" src="https://streak-stats.demolab.com?user=Mellow1213&hide_langs_below=1&theme=ambient_gradient&line_height=20&layout=compact" /> <br><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mellow1213&show_icons=true&count_private=true&include_all_commits=true&theme=holi&line_height=20" alt="Mellow1213's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mellow1213&hide_langs_below=1&theme=github_dark_dimmed&line_height=26&layout=compact" />
 </p>
 
 <h3>Information</h3>
