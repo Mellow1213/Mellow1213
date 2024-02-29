@@ -69,9 +69,9 @@
   
   <br>
   <h2>Projects</h2>
-  <i>"Click to View My Projects!"</i><br><br>
+  <i><strong>"Click to View My Projects!"</strong></i><br><br>
   <details>
-  <summary><strong>2024</strong></summary>
+  <summary><strong><2024></strong></summary>
 
    - - -
    ⭐ **2024 Main Project** ⭐
@@ -87,7 +87,7 @@
    - - - 
   </details>
   <details>
-  <summary><strong>2023</strong></summary>
+  <summary><strong><2023></strong></summary>
 
    - - - 
    ⭐ **2023 Main Project** ⭐
@@ -127,7 +127,7 @@
    - - - 
   </details>
   <details>
-  <summary><strong>2022</strong></summary>
+  <summary><strong><2022></strong></summary>
 
    - - - 
    ⭐ **2022 Main Project** ⭐  
@@ -164,7 +164,7 @@
    - - -
   </details>
   <details>
-  <summary><strong>2021</strong></summary><br>
+  <summary><strong><2021></strong></summary><br>
 
    - - - 
    ⭐ **2021 Main Project** ⭐
@@ -187,7 +187,7 @@
   - - -  
   </details>
   <details>
-  <summary><strong>2020</strong></summary><br>
+  <summary><strong><2020></strong></summary><br>
 
    - - - 
    ⭐ **2020 Main Project** ⭐
@@ -216,9 +216,17 @@
 
   <br>
   <h2>Awards</h2>
-  |1|2|3|4|5|
-  |:----------:|:---------:|:--------:|:---:|:-----------------:|
-  |1|2|3|4|5|
+  
+  
+  |Grade|Award Title|Date|
+  |:----------|:---------|:--------:| 
+  |🥇금상(총장상)|SW Week SW 동아리 전시회|2023.11|
+  |🥇우수학부포스터상|2023 KCGS Conference|2023.07|  
+  |🥉장려상|SW캡스톤디자인 경진대회|2023.06| 
+  |🥇석사논문우수상|2023 KCGS Conference|2023.07|
+  |🥉장려상|SW캡스톤디자인 경진대회|2023.06|
+  |🥉장려상|공대인의 날 서공제 구현 부문|2022.11| 
+  |🥈은상|학술동아리 C.愛.랑 30주년 & SW전시회|2022.11|
 
 
   
@@ -227,7 +235,7 @@
 
   |Author Order|Paper Title|Conference|Venue|Presentation Method|
   |:----------:|:---------:|:--------:|:---:|:-----------------:|
-  |1st|[Performance and Efficiency Analysis of Unity DOTS](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229839)|HCI 2023|Jeongseon, Korea (Feb. 2023)|Poster|
+  |**1st**|[Performance and Efficiency Analysis of Unity DOTS](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229839)|HCI 2023|Jeongseon, Korea (Feb. 2023)|Poster|
   |3rd|[GIS Feature Points Based DB for AR Collaboration System: GFPDB](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229739)|HCI 2023|Jeongseon, Korea (Feb. 2023)|Oral|
   |2nd|[Customized VR contents utilizing heart rate](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11492789)|KCGS 2023|Jeju, Korea (Jul. 2023)|Poster|
   |2nd|[Enhancing User Experience in VR Using Wearable Olfactory Device](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11492727)|KCGS 2023|Jeju, Korea (Jul. 2023)|Oral|
