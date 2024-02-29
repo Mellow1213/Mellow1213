@@ -6,14 +6,6 @@
 </h2>
 <strong>A Game Developer</strong> and Learner, who wanna be <strong>The Best</strong><br><br>
 
-
-<p align="center">
-<img align="center" src="http://mazassumnida.wtf/api/generate_badge?boj=dpcks7282&show_icons=true&count_private=true&include_all_commits=true&line_height=21"/><br><br>
-<img align="center" src="https://streak-stats.demolab.com?user=Mellow1213&hide_langs_below=1&theme=ambient_gradient&line_height=20&layout=compact" /> <br><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mellow1213&show_icons=true&count_private=true&include_all_commits=true&theme=holi&line_height=20" alt="Mellow1213's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mellow1213&hide_langs_below=1&theme=github_dark_dimmed&line_height=26&layout=compact" />
-</p>
-
 <h3>Information</h3>
 
 * 🎓 Bachelor's degree of CSE at Hallym University.
@@ -25,12 +17,12 @@
   <a href="https://velog.io/@dpcks7282" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>   
   (Blog in Progress - Stay Tuned!) 
 
-
+<br><br>
 
 
 <!--- D E T A I L  I N F O R M A T I O N --->
 <details>
-  <summary>Click for More about me...</summary>
+  <summary><strong>Click for more about me...</strong></summary>
 
   
   <h2>Info</h2>
@@ -40,9 +32,17 @@
   <strong>Field</strong>: Game Design & Programming, VR/AR, Computer Graphics, CS <br>       
   <strong>Contact</strong>: dpcks7282@gmail.com <br>
   
-<p align="left">
-</p>
-
+  <p align="center">
+    <i><strong>My Status</strong></i>
+  </p>  
+  
+  <p align="center">    
+  <img align="center" src="http://mazassumnida.wtf/api/generate_badge?boj=dpcks7282&show_icons=true&count_private=true&include_all_commits=true&line_height=21"/><br><br>
+  <img align="center" src="https://streak-stats.demolab.com?user=Mellow1213&hide_langs_below=1&theme=ambient_gradient&line_height=20&layout=compact" /> <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mellow1213&show_icons=true&count_private=true&include_all_commits=true&theme=holi&line_height=20" alt="Mellow1213's Github Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mellow1213&hide_langs_below=1&theme=github_dark_dimmed&line_height=26&layout=compact" />
+  </p>
+  
   <h2>Skills & Stacks</h2>
   Tools<br>
   <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=unity&logoColor=FFFFFF"/></a>
@@ -68,6 +68,7 @@
   <h2>Groups & Leadership</h2>
   
   <h2>Projects</h2>
+  <i>"Click to View My Projects!"</i><br>
   <details>
   <summary><strong>2024</strong></summary>
 
@@ -200,20 +201,32 @@
   <h2>Awards</h2>
 
   
-  
-  
   </details>
-
-
-
+<br><br>
 <!--- P O R T P O L I O  &  B L O G (Implement Later) --->
-<!---
+
+- - -
+
 <p align="center">
   <i>Take a look at my repositories and let's get in touch!</i>
+
 <p align="center">
-<a href= "Portpolio URL"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-<a href= "Think something to show me"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://twitter.com/halffrost"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
-<a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+<a href= "https://github.com/halfrost/Halfrost-Field/"><img src="https://img.icons8.com/material-outlined/30/000000/github.png"/></a>
+<a href= "https://www.linkedin.com/in/halffrost/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://twitter.com/halffrost"><img src="https://img.icons8.com/material-outlined/30/000000/instagram.png"/></a>
+<a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
 </p>
---->
+
+<p  align="center">
+  
+
+</p>
+
+</p>
+
+- - -
+
+
+[![Mellow1213's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mellow1213&theme=github-light)](https://github.com/Mellow1213/github-readme-activity-graph)
+  
+  
