@@ -7,11 +7,11 @@
 <strong>A Game Developer</strong> and Learner, who wanna be <strong>The Best</strong><br><br>
 
 
-<p align="left">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mellow1213&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="Mellow1213's Github Stats" />
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mellow1213&show_icons=true&count_private=true&include_all_commits=true&line_height=20" alt="Mellow1213's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mellow1213&hide_langs_below=1&theme=default&line_height=26&layout=compact" />
+<img align="center" src="https://streak-stats.demolab.com?user=Mellow1213&hide_langs_below=1&theme=default&line_height=20&layout=compact" /> 
 <img align="center" src="http://mazassumnida.wtf/api/generate_badge?boj=dpcks7282&show_icons=true&count_private=true&include_all_commits=true&line_height=21"/>
-<img align="center" src="https://streak-stats.demolab.com?user=Mellow1213&hide_langs_below=1&theme=default&line_height=21&layout=compact" />  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mellow1213&hide_langs_below=1&theme=default&line_height=21&layout=compact" />
 </p>
 
 <h3>Information</h3>
@@ -39,6 +39,9 @@
   <strong>Major</strong>: Content IT, School of Computer Science, College of Informatics in Hallym University <br>
   <strong>Field</strong>: Game Design & Programming, VR/AR, Computer Graphics, CS <br>       
   <strong>Contact</strong>: dpcks7282@gmail.com <br>
+  
+<p align="left">
+</p>
 
   <h2>Skills & Stacks</h2>
   Tools<br>
