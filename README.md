@@ -45,24 +45,27 @@
 
   <br>
   <h2>Skills & Stacks</h2>
-  Tools<br>
+  Engine<br>
   <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=unity&logoColor=FFFFFF"/></a>
   <a href="https://unity.com/dots" target="_blank"><img src="https://img.shields.io/badge/Unity DOTS-000000?style=flat-square&logo=UNITY&logoColor=FFFFFF"/></a>
   <a href="https://www.unrealengine.com/en-US/" target="_blank"><img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=UNREAL%20ENGINE&logoColor=FFFFFF"/></a>
+  <br><br>
+
+  Tools<br>
   <a href="https://www.blender.org/" target="_blank"><img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=FFFFFF"/></a>
   <a href="https://www.jetbrains.com/rider/" target="_blank"><img src="https://img.shields.io/badge/Rider-000000?style=flat-square&logo=rider&logoColor=FFFFFF"/></a>
   <a href="https://visualstudio.microsoft.com/ko/" target="_blank"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=FFFFFF"/></a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=FFFFFF"/></a>
   <a href="https://www.image-line.com/fl-studio/" target="_blank"><img src="https://img.shields.io/badge/FL%20Studio-000000?style=flat-square&logo=JAVA&logoColor=FFFFFF"/></a>
   <a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=FFFFFF"/></a>
-  <br>
-
+  <br> 
+  
   Languages<br>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/CSHARP-2C2255?style=flat-square&logo=CSHARP&logoColor=FFFFFF"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/JAVA-2C2255?style=flat-square&logo=JAVA&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/>
   
   <br>
   <h2>Projects</h2>
@@ -213,9 +216,24 @@
 
   <br>
   <h2>Awards</h2>
+  |1|2|3|4|5|
+  |:----------:|:---------:|:--------:|:---:|:-----------------:|
+  |1|2|3|4|5|
 
+
+  
   <br>
-  <h2>Papers(Undergraduated)</h2>
+  <h2>Papers (Undergraduate)</h2>
+
+  |Author Order|Paper Title|Conference|Venue|Presentation Method|
+  |:----------:|:---------:|:--------:|:---:|:-----------------:|
+  |1st|[Performance and Efficiency Analysis of Unity DOTS](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229839)|HCI 2023|Jeongseon, Korea (Feb. 2023)|Poster|
+  |3rd|[GIS Feature Points Based DB for AR Collaboration System: GFPDB](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229739)|HCI 2023|Jeongseon, Korea (Feb. 2023)|Oral|
+  |2nd|[Customized VR contents utilizing heart rate](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11492789)|KCGS 2023|Jeju, Korea (Jul. 2023)|Poster|
+  |2nd|[Enhancing User Experience in VR Using Wearable Olfactory Device](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11492727)|KCGS 2023|Jeju, Korea (Jul. 2023)|Oral|
+  |2nd|[Enhancing VR Experience using a Mounted Olfactory Device](https://dl.acm.org/doi/10.1145/3611659.3616896)|VRST 2023|Christchurch, New Zeland (Oct. 2023)|Poster & Experience|
+  |2nd|[노인 난청인 대상의 청능 훈련용 어플리케이션 개발](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11714772)|HCI 2024|Hongcheon, Korea (Feb. 2024)|Poster|
+  
   <br>
   <h2>Groups & Leadership</h2>
    
@@ -224,10 +242,12 @@
      - 소프트웨어학부 SW멘토링 **멘토** (C# & Unity 3D)
      - GVE Lab. 중추 청각 인지 재활 앱 과제 **Develop PM**
      - 강원 VR/AR 제작거점센터 정기교육 **조교**
+     - 2023-1 도제식 학부 연구생 프로그램 참여
    - 2022
      - 동아리 C.愛.랑 **라온(게임개발) 팀장**
      - 소프트웨어학부 SW멘토링 **멘토** (Unity 3D & Game Design)
      - GVE Lab. 학부 연구생 등록
+     - 2022-2 도제식 학부 연구생 프로그램 참
    - 2020
      - 한림대학교 소프트웨어학부 SW 학술동아리 C.愛.랑 입부
   
