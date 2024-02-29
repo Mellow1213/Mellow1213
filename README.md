@@ -24,7 +24,7 @@
 <details>
   <summary><strong>Click for more about me...</strong></summary>
 
-  
+  <br>
   <h2>Info</h2>
   <strong>Name</strong>: 최예찬(Yechan Choi) / Mellow1213 <br>      
   <strong>Age</strong>: 23 (24 in Korean Age) <br>      
@@ -42,7 +42,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mellow1213&show_icons=true&count_private=true&include_all_commits=true&theme=holi&line_height=20" alt="Mellow1213's Github Stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mellow1213&hide_langs_below=1&theme=github_dark_dimmed&line_height=26&layout=compact" />
   </p>
-  
+
+  <br>
   <h2>Skills & Stacks</h2>
   Tools<br>
   <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=unity&logoColor=FFFFFF"/></a>
@@ -63,12 +64,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/>
   <img src="https://img.shields.io/badge/JAVA-2C2255?style=flat-square&logo=JAVA&logoColor=FFFFFF"/>
   
-
-  
-  <h2>Groups & Leadership</h2>
-  
+  <br>
   <h2>Projects</h2>
-  <i>"Click to View My Projects!"</i><br>
+  <i>"Click to View My Projects!"</i><br><br>
   <details>
   <summary><strong>2024</strong></summary>
 
@@ -197,11 +195,47 @@
        
   - - -   
   </details>
-  
+
+
+  <br>
+  <h2>Research Projects</h2>
+
+  - 인공지능 기반 초실감 산림 환경(VERAH) 및 HMD/Non-HND 트레드밀 산림치유 시스템 개발 (중견과제)
+    - 수행 기간: 2022.08 ~ 2023.08 (비공식: ~2023.12)
+  - 핵융합 디지털 트윈을 위한 플라즈마의 3차원 가시화 및 시뮬레이션 데이터 분석 기술 개발 (중견과제)
+    - 수행 기간: 2023.04 ~ 2023.08
+  - 난청 노인을 위한 ICT 기반 중추청각인지 재활 콘텐츠 구축
+    - 수행 기간: (비공식: 2023.04 ~ 2024.01)
+  - 2023년 강원 VRAR제작거점센터 운영 사업
+    - 수행 기간: 2023.03 ~ 2023.12
+
+
+  <br>
   <h2>Awards</h2>
 
+  <br>
+  <h2>Papers(Undergraduated)</h2>
+  <br>
+  <h2>Groups & Leadership</h2>
+   
+   - 2023
+     - SW 학술동아리 C.愛.랑 **31대 회장**
+     - 소프트웨어학부 SW멘토링 **멘토** (C# & Unity 3D)
+     - GVE Lab. 중추 청각 인지 재활 앱 과제 **Develop PM**
+     - 강원 VR/AR 제작거점센터 정기교육 **조교**
+   - 2022
+     - 동아리 C.愛.랑 **라온(게임개발) 팀장**
+     - 소프트웨어학부 SW멘토링 **멘토** (Unity 3D & Game Design)
+     - GVE Lab. 학부 연구생 등록
+   - 2020
+     - 한림대학교 소프트웨어학부 SW 학술동아리 C.愛.랑 입부
+  
   
   </details>
+
+  
+
+  
 <br><br>
 <!--- P O R T P O L I O  &  B L O G (Implement Later) --->
 
