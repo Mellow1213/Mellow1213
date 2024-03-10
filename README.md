@@ -17,17 +17,9 @@
   <a href="https://velog.io/@dpcks7282" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>   
   (Blog in Progress - Stay Tuned!) 
 
-<br><br>
-
-
-<!--- D E T A I L  I N F O R M A T I O N --->
-<details>
-  <summary><strong>Click for more about me...</strong></summary>
-
   <br>
   <h2>Info</h2>
   <strong>Name</strong>: 최예찬(Yechan Choi) / Mellow1213 <br>      
-  <strong>Age</strong>: 23 (24 in Korean Age) <br>      
   <strong>Major</strong>: Content IT, School of Computer Science, College of Informatics in Hallym University <br>
   <strong>Field</strong>: Game Design & Programming, VR/AR, Computer Graphics, CS <br>       
   <strong>Contact</strong>: dpcks7282@gmail.com <br>
@@ -260,8 +252,6 @@
      - 한림대학교 소프트웨어학부 SW 학술동아리 C.愛.랑 입부
   
   
-  </details>
-
   
 
   
