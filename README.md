@@ -11,7 +11,7 @@
 * <strong>Name</strong>: 최예찬 <br>      
 * <strong>Major</strong>: 정보과학대학 소프트웨어학부 (한림대) <br>
 * <strong>Field</strong>: 클라이언트 프로그래밍, 기획 & 디자인, VR/AR, 그래픽스, CS <br>       
-* <strong>Contant</strong>: dpcks7282@gmail.com <br>
+* <strong>Contact</strong>: dpcks7282@gmail.com <br>
     
 
 <br>
