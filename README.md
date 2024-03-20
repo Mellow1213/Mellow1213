@@ -147,7 +147,7 @@ Languages<br>
   <br>
   <h2>Papers (Undergraduate)</h2>
 
-  |Author ~|Paper|Conference|Venue|게재 형식|
+  |Author Order|Paper Title|Conference|Venue|Presentation Method|
   |:-------:|:-----|:---|:--:|:-------:|
   |**1st**|[Performance and Efficiency Analysis of Unity DOTS](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229839)|HCI 2023|Jeongseon, Korea (Feb. 2023)|Poster|
   |3rd|[GIS Feature Points Based DB for AR Collaboration System: GFPDB](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229739)|HCI 2023|Jeongseon, Korea (Feb. 2023)|Oral|
@@ -177,17 +177,6 @@ Languages<br>
   
 
   
-<br><br>
-<!--- P O R T P O L I O  &  B L O G (Implement Later) --->
-
-- - -
-
-
-  
-
-</p>
-
-</p>
 
 - - -
 
