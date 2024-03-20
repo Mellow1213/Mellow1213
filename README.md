@@ -5,14 +5,8 @@
 <h2>Greetings, Traveler! I'm Yechan Choi!  <img src="https://media.giphy.com/media/TjaTrZlziu73ZZzgXj/giphy.gif" width="30">
 </h2>
 
+<strong>*"Carpe Diem, Memento Mori & Amor Fati"*</strong><br>
 
-<strong>*"Carpe Diem, Memento Mori & Amor Fati"*</strong>
-
-
-
-
-
-<br><br>
 <h2>Info</h2>
 
 * <strong>Name</strong>: 최예찬 <br>      
@@ -153,8 +147,8 @@ Languages<br>
   <br>
   <h2>Papers (Undergraduate)</h2>
 
-  |저자 순위|논문명|학회|장소|게재 형식|
-  |:----------:|:---------:|:--------:|:---:|:-----------------:|
+  |Author ~|Paper|Conference|Venue|게재 형식|
+  |:-------:|:-----|:---|:--:|:-------:|
   |**1st**|[Performance and Efficiency Analysis of Unity DOTS](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229839)|HCI 2023|Jeongseon, Korea (Feb. 2023)|Poster|
   |3rd|[GIS Feature Points Based DB for AR Collaboration System: GFPDB](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229739)|HCI 2023|Jeongseon, Korea (Feb. 2023)|Oral|
   |2nd|[Customized VR contents utilizing heart rate](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11492789)|KCGS 2023|Jeju, Korea (Jul. 2023)|Poster|
