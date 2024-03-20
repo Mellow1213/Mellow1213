@@ -5,7 +5,13 @@
 <h2>Greetings, Traveler! I'm Yechan Choi!  <img src="https://media.giphy.com/media/TjaTrZlziu73ZZzgXj/giphy.gif" width="30">
 </h2>
 
-*"Carpe Diem, Memento Mori & Amor Fati"*
+
+<strong>*"Carpe Diem, Memento Mori & Amor Fati"*</strong>
+
+
+
+
+
 <br><br>
 <h2>Info</h2>
 
@@ -14,12 +20,29 @@
 * <strong>Field</strong>: 게임 클라이언트(Unity & Unreal), 게임 디자인, VR/AR, 그래픽스, CS <br>       
 * <strong>Contact</strong>: dpcks7282@gmail.com <br>
     
+<p align="center">
+  <strong><i>~My Repositories~</i></strong>
+
+<p align="center">
+<a href= "https://www.linkedin.com/in/mellow1213/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://www.instagram.com/yechan_c27/"><img src="https://img.icons8.com/material-outlined/30/000000/instagram.png"/></a>
+<a href= "https://mellow1213.github.io/"><img src="https://img.icons8.com/material-outlined/30/000000/github.png"/></a>
+<a href= "https://velog.io/@dpcks7282/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
+</p>
+
+</p>
+
+
 
 <h2>Skills & Stacks</h2>
-Engine<br>
+
 <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=unity&logoColor=FFFFFF"/></a>
-<a href="https://unity.com/dots" target="_blank"><img src="https://img.shields.io/badge/Unity DOTS-000000?style=flat-square&logo=UNITY&logoColor=FFFFFF"/></a>
+
+* 5년차 / Photon / Unity DOTS / Unity Profiler / SRP & Shader Scripting    
+
 <a href="https://www.unrealengine.com/en-US/" target="_blank"><img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=UNREAL%20ENGINE&logoColor=FFFFFF"/></a>
+
+* 1년차
 <br><br>
   
 Languages<br>
@@ -30,7 +53,9 @@ Languages<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/>
 
 <h2>Projects</h2>
-       
+    
+* 메인 프로젝트
+    
    - [**The HighLander**](https://github.com/Mellow1213/The_Highlander)  🥈🥉
      - Unity 3D/TPS/핵 앤 슬래쉬/하이퍼 액션
      - 적들이 몰려오는 웨이브를 가동시켜 에너지를 모으는 게임
@@ -45,14 +70,8 @@ Languages<br>
      - 사용자의 HR(HeartRate)를 Smart Watch와 실시간 연동하여 HR 수치의 변동에 따라 콘텐츠가 변화하는 공포 게임
      - [2023 KCGS Conference](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11492789) / 학부우수포스터상(공동 저자) 
      - 한림대학교 2023 SW캡스톤 경진대회 / 장려상
-
-   - [**Phantom Thief**](https://github.com/Mellow1213/2022_UE_Project)
-     - Unreal5 Blueprint/잠입 액션/이스케이프 룸
-     - 박물관에 잠입하여 경비를 피해 다이아몬드를 훔치는 게임
     
-   - [**Zland**](https://github.com/Mellow1213/ZLand_Source)
-     - Unity 3D/FPS/Survival/Escape Room
-     - 좀비섬에서 재료들을 모아 다양한 방법으로 탈출하는 게임
+   
        
    - [**Word Runner**](https://github.com/Mellow1213/Word-Runner)
      - Unity 3D/Runner/Action
@@ -60,7 +79,15 @@ Languages<br>
 
        <br><br><br><br>
    - - -
-    
+   
+  <details><summary>정리 예정(메인 X)</summary>
+   
+   - [**Zland**](https://github.com/Mellow1213/ZLand_Source)
+     - Unity 3D/FPS/Survival/Escape Room
+     - 좀비섬에서 재료들을 모아 다양한 방법으로 탈출하는 게임
+   - [**Phantom Thief**](https://github.com/Mellow1213/2022_UE_Project)
+     - Unreal5 Blueprint/잠입 액션/이스케이프 룸
+     - 박물관에 잠입하여 경비를 피해 다이아몬드를 훔치는 게임
    - [**Coin Lapse**](https://github.com/Mellow1213/Coin_Lapse) 🥇
      - Unity 3D/FPS/Defense
      - 소지 금액 자체가 많을 수록 강력해지고, 적을 수록 약해지는 은행 강도
@@ -82,8 +109,8 @@ Languages<br>
    - [**Arcane_Savior**](https://github.com/Mellow1213/Arcane_Savior)
      - Unity 3D/FPS/Defense
      - 일정 시간 동안 계속 몰려오는 적들로부터 수정을 지키는 게임
-
- - - -
+</details>
+ 
 
    * 진행 중
   
@@ -111,22 +138,22 @@ Languages<br>
   <h2>Awards</h2>
   
   
-  |Grade|Award Title|Date|
-  |:----------|:---------|:--------:| 
-  |🥇금상(총장상)|SW Week SW 동아리 전시회|2023.11|
-  |🥇우수학부포스터상|2023 KCGS Conference|2023.07|  
-  |🥉장려상|SW캡스톤디자인 경진대회|2023.06| 
-  |🥇석사논문우수상|2023 KCGS Conference|2023.07|
-  |🥉장려상|SW캡스톤디자인 경진대회|2023.06|
-  |🥉장려상|공대인의 날 서공제 구현 부문|2022.11| 
-  |🥈은상|학술동아리 C.愛.랑 30주년 & SW전시회|2022.11|
+  |수상|수상명|수상기관|날짜|
+  |:----------|:---------:|:------:|:--------:| 
+  |🥇금상(총장상)|SW Week SW 동아리 전시회|한림대학교 SW사업단|2023.11|
+  |🥇우수학부포스터상|2023 KCGS Conference|한국컴퓨터그래픽스학회|2023.07|  
+  |🥉장려상|SW캡스톤디자인 경진대회|한림대학교 SW사업단|2023.06| 
+  |🥇석사논문우수상|2023 KCGS Conference|한국컴퓨터그래픽스학회|2023.07|
+  |🥉장려상|SW캡스톤디자인 경진대회|한림대학교 SW사업단|2023.06|
+  |🥉장려상|공대인의 날 서공제 구현 부문|한림대학교 2022 학생회|2022.11| 
+  |🥈은상|학술동아리 C.愛.랑 30주년 & SW전시회|한림대학교 SW동아리 C.愛.랑|2022.11|
 
 
   
   <br>
   <h2>Papers (Undergraduate)</h2>
 
-  |Author Order|Paper Title|Conference|Venue|Presentation Method|
+  |저자 순위|논문명|학회|장소|게재 형식|
   |:----------:|:---------:|:--------:|:---:|:-----------------:|
   |**1st**|[Performance and Efficiency Analysis of Unity DOTS](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229839)|HCI 2023|Jeongseon, Korea (Feb. 2023)|Poster|
   |3rd|[GIS Feature Points Based DB for AR Collaboration System: GFPDB](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229739)|HCI 2023|Jeongseon, Korea (Feb. 2023)|Oral|
@@ -161,17 +188,7 @@ Languages<br>
 
 - - -
 
-<p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i>
 
-<p align="center">
-<a href= "https://www.linkedin.com/in/mellow1213/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
-<a href= "https://www.instagram.com/yechan_c27/"><img src="https://img.icons8.com/material-outlined/30/000000/instagram.png"/></a>
-<a href= "https://mellow1213.github.io/"><img src="https://img.icons8.com/material-outlined/30/000000/github.png"/></a>
-<a href= "https://velog.io/@dpcks7282/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
-</p>
-
-<p  align="center">
   
 
 </p>
