@@ -5,16 +5,16 @@
 <h2>Greetings, Traveler! I'm Yechan Choi!  <img src="https://media.giphy.com/media/TjaTrZlziu73ZZzgXj/giphy.gif" width="30">
 </h2>
 
-<br>
+*"Carpe Diem, Memento Mori & Amor Fati"*
+<br><br>
 <h2>Info</h2>
 
 * <strong>Name</strong>: 최예찬 <br>      
 * <strong>Major</strong>: 정보과학대학 소프트웨어학부 (한림대) <br>
-* <strong>Field</strong>: 클라이언트 프로그래밍, 기획 & 디자인, VR/AR, 그래픽스, CS <br>       
+* <strong>Field</strong>: 게임 클라이언트(Unity & Unreal), 게임 디자인, VR/AR, 그래픽스, CS <br>       
 * <strong>Contact</strong>: dpcks7282@gmail.com <br>
     
 
-<br>
 <h2>Skills & Stacks</h2>
 Engine<br>
 <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=unity&logoColor=FFFFFF"/></a>
@@ -29,7 +29,6 @@ Languages<br>
 <img src="https://img.shields.io/badge/JAVA-2C2255?style=flat-square&logo=JAVA&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/>
 
-<br>
 <h2>Projects</h2>
        
    - [**The HighLander**](https://github.com/Mellow1213/The_Highlander)  🥈🥉
@@ -88,7 +87,7 @@ Languages<br>
 
    * 진행 중
   
-   - [**Bullet Delivery(가제)**](https://github.com/Lithium07z/2024_Capstone_Project)
+   - [**Bullet Sign**](https://github.com/Lithium07z/2024_Capstone_Project)
    - [**Star Saliors(가제)**](https://github.com/Mellow1213/Star-Saliors)  
    - [**Life Archive(가제)**](https://github.com/Mellow1213/Life-Archive)
    - [**HorseBack N Overtaken**](https://github.com/Mellow1213/HorseBack-N-Overtaken)
