@@ -46,6 +46,24 @@ Languages<br>
 <img src="https://img.shields.io/badge/JAVA-2C2255?style=flat-square&logo=JAVA&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/>
 
+<br>
+  <h2>Groups & Leadership</h2>
+   
+   - 2023
+     - SW 학술동아리 C.愛.랑 **31대 회장**
+     - 소프트웨어학부 SW멘토링 **멘토** (C# & Unity 3D)
+     - GVE Lab. 중추 청각 인지 재활 앱 과제 **Develop PM**
+     - 강원 VR/AR 제작거점센터 정기교육 **조교**
+     - 2023-1 도제식 학부 연구생 프로그램 참여
+   - 2022
+     - 동아리 C.愛.랑 **라온(게임개발) 팀장**
+     - 소프트웨어학부 SW멘토링 **멘토** (Unity 3D & Game Design)
+     - GVE Lab. 학부 연구생 등록
+     - 2022-2 도제식 학부 연구생 프로그램 참
+   - 2020
+     - 한림대학교 소프트웨어학부 SW 학술동아리 C.愛.랑 입부
+  
+
   
   <br>
   <h2>Awards</h2>
@@ -67,7 +85,7 @@ Languages<br>
   <h2>Papers (Undergraduate)</h2>
 
   |Author Order|Paper Title|Conference|Venue|Presentation Method|
-  |:-------:|:-----|:---|:--:|:-------:|
+  |:-------:|:-----:|:---:|:--:|:-------:|
   |**1st**|[Performance and Efficiency Analysis of Unity DOTS](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229839)|HCI 2023|Jeongseon, Korea (Feb. 2023)|Poster|
   |3rd|[GIS Feature Points Based DB for AR Collaboration System: GFPDB](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229739)|HCI 2023|Jeongseon, Korea (Feb. 2023)|Oral|
   |2nd|[Customized VR contents utilizing heart rate](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11492789)|KCGS 2023|Jeju, Korea (Jul. 2023)|Poster|
@@ -91,22 +109,6 @@ Languages<br>
 
 
   
-  <br>
-  <h2>Groups & Leadership</h2>
-   
-   - 2023
-     - SW 학술동아리 C.愛.랑 **31대 회장**
-     - 소프트웨어학부 SW멘토링 **멘토** (C# & Unity 3D)
-     - GVE Lab. 중추 청각 인지 재활 앱 과제 **Develop PM**
-     - 강원 VR/AR 제작거점센터 정기교육 **조교**
-     - 2023-1 도제식 학부 연구생 프로그램 참여
-   - 2022
-     - 동아리 C.愛.랑 **라온(게임개발) 팀장**
-     - 소프트웨어학부 SW멘토링 **멘토** (Unity 3D & Game Design)
-     - GVE Lab. 학부 연구생 등록
-     - 2022-2 도제식 학부 연구생 프로그램 참
-   - 2020
-     - 한림대학교 소프트웨어학부 SW 학술동아리 C.愛.랑 입부
   
 
 
