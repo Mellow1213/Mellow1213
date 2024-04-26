@@ -17,7 +17,6 @@
 
 <!--- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dpcks7282)](https://solved.ac/dpcks7282) --->
 
-
 <p align="center">
   <strong><i>~My Repositories~</i></strong>
 
@@ -31,7 +30,6 @@
 </p>
 
 
-
 <h2>Skills & Stacks</h2>
 
 <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=unity&logoColor=FFFFFF"/></a>
@@ -42,82 +40,6 @@
 
 * 1년차
 <br><br>
-  
-Languages<br>
-<img src="https://img.shields.io/badge/CSHARP-2C2255?style=flat-square&logo=CSHARP&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/JAVA-2C2255?style=flat-square&logo=JAVA&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/>
-
-<br>
-  <h2>Groups & Leadership</h2>
-   
-   - 2023
-     - SW 학술동아리 C.愛.랑 **31대 회장**
-     - 소프트웨어학부 SW멘토링 **멘토** (C# & Unity 3D)
-     - GVE Lab. 중추 청각 인지 재활 앱 과제 **Develop PM**
-     - 강원 VR/AR 제작거점센터 정기교육 **조교**
-     - 2023-1 도제식 학부 연구생 프로그램 참여
-   - 2022
-     - 동아리 C.愛.랑 **라온(게임개발) 팀장**
-     - 소프트웨어학부 SW멘토링 **멘토** (Unity 3D & Game Design)
-     - GVE Lab. 학부 연구생 등록
-     - 2022-2 도제식 학부 연구생 프로그램 참
-   - 2020
-     - 한림대학교 소프트웨어학부 SW 학술동아리 C.愛.랑 입부
-  
-
-  
-  <br>
-  <h2>Awards</h2>
-  
-  
-  |수상|수상명|수상기관|날짜|
-  |:----------|:---------:|:------:|:--------:| 
-  |🥇금상(총장상)|SW Week SW 동아리 전시회|한림대학교 SW사업단|2023.11|
-  |🥇우수학부포스터상|2023 KCGS Conference|한국컴퓨터그래픽스학회|2023.07|  
-  |🥉장려상|SW캡스톤디자인 경진대회|한림대학교 SW사업단|2023.06| 
-  |🥇석사논문우수상|2023 KCGS Conference|한국컴퓨터그래픽스학회|2023.07|
-  |🥉장려상|SW캡스톤디자인 경진대회|한림대학교 SW사업단|2023.06|
-  |🥉장려상|공대인의 날 서공제 구현 부문|한림대학교 2022 학생회|2022.11| 
-  |🥈은상|학술동아리 C.愛.랑 30주년 & SW전시회|한림대학교 SW동아리 C.愛.랑|2022.11|
-
-
-  
-  <br>
-  <h2>Papers (Undergraduate)</h2>
-
-  |Author Order|Paper Title|Conference|Venue|Presentation Method|
-  |:-------:|:-----:|:---:|:--:|:-------:|
-  |**1st**|[Performance and Efficiency Analysis of Unity DOTS](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229839)|[HCI 2023](https://conference.hcikorea.org/hcik2023/main/main.asp)|Jeongseon, Korea (Feb. 2023)|Poster|
-  |3rd|[GIS Feature Points Based DB for AR Collaboration System: GFPDB](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229739)|[HCI 2023](https://conference.hcikorea.org/hcik2023/main/main.asp)|Jeongseon, Korea (Feb. 2023)|Oral|
-  |2nd|[Customized VR contents utilizing heart rate](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11492789)|[KCGS 2023](http://cg-korea.org/conference/7/)|Jeju, Korea (Jul. 2023)|Poster|
-  |2nd|[Enhancing User Experience in VR Using Wearable Olfactory Device](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11492727)|[KCGS 2023](http://cg-korea.org/conference/7/)|Jeju, Korea (Jul. 2023)|Oral|
-  |2nd|[Enhancing VR Experience using a Mounted Olfactory Device](https://dl.acm.org/doi/10.1145/3611659.3616896)|[VRST 2023](https://vrst.acm.org/vrst2023/)|Christchurch, New Zeland (Oct. 2023)|Poster & Experience|
-  |2nd|[노인 난청인 대상의 청능 훈련용 어플리케이션 개발](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11714772)|[HCI 2024](https://conference.hcikorea.org/hcik2024/main/main.asp)|Hongcheon, Korea (Feb. 2024)|Poster|
-
-  <br>
-  <h2>Research Projects</h2>
-
-  <strong>GVE Lab.</strong>
-  - 인공지능 기반 초실감 산림 환경(VERAH) 및 HMD/Non-HND 트레드밀 산림치유 시스템 개발 (중견과제)
-    - 수행 기간: 2022.08 ~ 2023.08 (비공식: ~2023.12)
-  - 핵융합 디지털 트윈을 위한 플라즈마의 3차원 가시화 및 시뮬레이션 데이터 분석 기술 개발 (중견과제)
-    - 수행 기간: 2023.04 ~ 2023.08
-  - 난청 노인을 위한 ICT 기반 중추청각인지 재활 콘텐츠 구축
-    - 수행 기간: (비공식: 2023.04 ~ 2024.01)
-  - 2023년 강원 VRAR제작거점센터 운영 사업
-    - 수행 기간: 2023.03 ~ 2023.12
-
-
-
-  
-  
-
-
-
-
 
 <h2>Projects</h2>
     
@@ -140,7 +62,6 @@ Languages<br>
     
    
        
-   - [**Word Runner**](https://github.com/Mellow1213/Word-Runner)
      - Unity 3D/Runner/Action
      - 날아오는 글자를 타이핑을 쳐서 파괴하며 전진하는 게임
 
@@ -148,6 +69,7 @@ Languages<br>
    - - -
    
   <details><summary>정리 예정(메인 X)</summary>
+   - [**Word Runner**](https://github.com/Mellow1213/Word-Runner)
    
    - [**Zland**](https://github.com/Mellow1213/ZLand_Source)
      - Unity 3D/FPS/Survival/Escape Room
@@ -176,21 +98,79 @@ Languages<br>
    - [**Arcane_Savior**](https://github.com/Mellow1213/Arcane_Savior)
      - Unity 3D/FPS/Defense
      - 일정 시간 동안 계속 몰려오는 적들로부터 수정을 지키는 게임
-</details>
- 
-
-   * 진행 중
-  
-   - [**Bullet Sign**](https://github.com/Lithium07z/2024_Capstone_Project)
+    
+   -  [**Bullet Sign**](https://github.com/Lithium07z/2024_Capstone_Project)
    - [**Star Saliors(가제)**](https://github.com/Mellow1213/Star-Saliors)  
    - [**Life Archive(가제)**](https://github.com/Mellow1213/Life-Archive)
    - [**HorseBack N Overtaken**](https://github.com/Mellow1213/HorseBack-N-Overtaken)
+ </details>
+ 
+<br>
 
+<br>
+  <h2>Awards</h2>
+  
+  
+  |수상|수상명|수상기관|날짜|
+  |:----------|:---------:|:------:|:--------:| 
+  |🥇금상(총장상)|SW Week SW 동아리 전시회|한림대학교 SW사업단|2023.11|
+  |🥇우수학부포스터상|2023 KCGS Conference|한국컴퓨터그래픽스학회|2023.07|  
+  |🥉장려상|SW캡스톤디자인 경진대회|한림대학교 SW사업단|2023.06| 
+  |🥇석사논문우수상|2023 KCGS Conference|한국컴퓨터그래픽스학회|2023.07|
+  |🥉장려상|SW캡스톤디자인 경진대회|한림대학교 SW사업단|2023.06|
+  |🥉장려상|공대인의 날 서공제 구현 부문|한림대학교 2022 학생회|2022.11| 
+  |🥈은상|학술동아리 C.愛.랑 30주년 & SW전시회|한림대학교 SW동아리 C.愛.랑|2022.11|
+
+<br>
+  <h2>Papers (Undergraduate)</h2>
+
+  |Author Order|Paper Title|Conference|Venue|Presentation Method|
+  |:-------:|:-----:|:---:|:--:|:-------:|
+  |**1st**|[Performance and Efficiency Analysis of Unity DOTS](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229839)|[HCI 2023](https://conference.hcikorea.org/hcik2023/main/main.asp)|Jeongseon, Korea (Feb. 2023)|Poster|
+  |3rd|[GIS Feature Points Based DB for AR Collaboration System: GFPDB](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11229739)|[HCI 2023](https://conference.hcikorea.org/hcik2023/main/main.asp)|Jeongseon, Korea (Feb. 2023)|Oral|
+  |2nd|[Customized VR contents utilizing heart rate](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11492789)|[KCGS 2023](http://cg-korea.org/conference/7/)|Jeju, Korea (Jul. 2023)|Poster|
+  |2nd|[Enhancing User Experience in VR Using Wearable Olfactory Device](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11492727)|[KCGS 2023](http://cg-korea.org/conference/7/)|Jeju, Korea (Jul. 2023)|Oral|
+  |2nd|[Enhancing VR Experience using a Mounted Olfactory Device](https://dl.acm.org/doi/10.1145/3611659.3616896)|[VRST 2023](https://vrst.acm.org/vrst2023/)|Christchurch, New Zeland (Oct. 2023)|Poster & Experience|
+  |2nd|[노인 난청인 대상의 청능 훈련용 어플리케이션 개발](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11714772)|[HCI 2024](https://conference.hcikorea.org/hcik2024/main/main.asp)|Hongcheon, Korea (Feb. 2024)|Poster|
 
   <br>
+  <h2>Research Projects</h2>
+
+  <strong>GVE Lab.</strong>
+  - 인공지능 기반 초실감 산림 환경(VERAH) 및 HMD/Non-HND 트레드밀 산림치유 시스템 개발 (중견과제)
+    - 수행 기간: 2022.08 ~ 2023.08 (비공식: ~2023.12)
+  - 핵융합 디지털 트윈을 위한 플라즈마의 3차원 가시화 및 시뮬레이션 데이터 분석 기술 개발 (중견과제)
+    - 수행 기간: 2023.04 ~ 2023.08
+  - 난청 노인을 위한 ICT 기반 중추청각인지 재활 콘텐츠 구축
+    - 수행 기간: (비공식: 2023.04 ~ 2024.01)
+  - 2023년 강원 VRAR제작거점센터 운영 사업
+    - 수행 기간: 2023.03 ~ 2023.12
+
 
   
+Languages<br>
+<img src="https://img.shields.io/badge/CSHARP-2C2255?style=flat-square&logo=CSHARP&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/JAVA-2C2255?style=flat-square&logo=JAVA&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/>
   
+  <br>
+  <h2>Groups & Leadership</h2>
+   
+   - 2023
+     - SW 학술동아리 C.愛.랑 **31대 회장**
+     - 소프트웨어학부 SW멘토링 **멘토** (C# & Unity 3D)
+     - GVE Lab. 중추 청각 인지 재활 앱 과제 **Develop PM**
+     - 강원 VR/AR 제작거점센터 정기교육 **조교**
+     - 2023-1 도제식 학부 연구생 프로그램 참여
+   - 2022
+     - 동아리 C.愛.랑 **라온(게임개발) 팀장**
+     - 소프트웨어학부 SW멘토링 **멘토** (Unity 3D & Game Design)
+     - GVE Lab. 학부 연구생 등록
+     - 2022-2 도제식 학부 연구생 프로그램 참
+   - 2020
+     - 한림대학교 소프트웨어학부 SW 학술동아리 C.愛.랑 입부
 
   
 
