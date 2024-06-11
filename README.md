@@ -14,9 +14,6 @@
 * <strong>Field</strong>: 게임 클라이언트(Unity & Unreal), 게임 디자인, VR/AR, 그래픽스, CS <br>       
 * <strong>Contact</strong>: dpcks7282@gmail.com <br>
 
-
-<!--- [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dpcks7282)](https://solved.ac/dpcks7282) --->
-
 <p align="center">
   <strong><i>~My Repositories~</i></strong>
 
@@ -31,6 +28,8 @@
 
 
 <h2>Skills & Stacks</h2>
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dpcks7282)](https://solved.ac/dpcks7282)
 
 <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=unity&logoColor=FFFFFF"/></a>
 
