@@ -12,7 +12,7 @@
 * <strong>Name</strong>: 최예찬 <br>      
 * <strong>Major</strong>: 정보과학대학 소프트웨어학부 (한림대학교) <br>
 * <strong>Field</strong>: 게임 클라이언트(Unity & Unreal), 게임 디자인, VR/AR, 그래픽스, CS <br>       
-* <strong>Contact</strong>: dpcks7282@gmail.com <br>
+<!---* <strong>Contact</strong>: dpcks7282@gmail.com <br> --->
 
 <p align="center">
   <strong><i>~My Repositories~</i></strong>
