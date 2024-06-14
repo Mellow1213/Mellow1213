@@ -120,12 +120,13 @@ Languages<br>
   |수상|수상명|수상기관|날짜|
   |:----------|:---------:|:------:|:--------:| 
   |🥇금상(총장상)|SW Week SW 동아리 전시회|한림대학교 SW사업단|2023.11|
+  |🥉장려상|2023 (사)한국청각언어재활학회 제26차 학술대회|(사)한국청각언어재활학회|2023.11|
   |🥇우수학부포스터상|2023 KCGS Conference|한국컴퓨터그래픽스학회|2023.07|  
-  |🥉장려상|SW캡스톤디자인 경진대회|한림대학교 SW사업단|2023.06| 
   |🥇석사논문우수상|2023 KCGS Conference|한국컴퓨터그래픽스학회|2023.07|
+  |🥉장려상|SW캡스톤디자인 경진대회|한림대학교 SW사업단|2023.06| 
   |🥉장려상|SW캡스톤디자인 경진대회|한림대학교 SW사업단|2023.06|
-  |🥉장려상|공대인의 날 서공제 구현 부문|한림대학교 2022 학생회|2022.11| 
   |🥈은상|학술동아리 C.愛.랑 30주년 & SW전시회|한림대학교 SW동아리 C.愛.랑|2022.11|
+  |🥉장려상|공대인의 날 서공제 구현 부문|한림대학교 2022 학생회|2022.11| 
 
 <br>
   <h2>Papers (Undergraduate)</h2>
@@ -137,6 +138,7 @@ Languages<br>
   |2nd|[Customized VR contents utilizing heart rate](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11492789)|[KCGS 2023](http://cg-korea.org/conference/7/)|Jeju, Korea (Jul. 2023)|Poster|
   |2nd|[Enhancing User Experience in VR Using Wearable Olfactory Device](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11492727)|[KCGS 2023](http://cg-korea.org/conference/7/)|Jeju, Korea (Jul. 2023)|Oral|
   |2nd|[Enhancing VR Experience using a Mounted Olfactory Device](https://dl.acm.org/doi/10.1145/3611659.3616896)|[VRST 2023](https://vrst.acm.org/vrst2023/)|Christchurch, New Zeland (Oct. 2023)|Poster & Experience|
+  |4th+|청각시간분석 훈련 어플리케이션 개발 및 적용 연구|[제 26차 (사)한국청각언어재활학회 학술대회](http://www.audiologykorea.kr/mall/customer/bbs_view.asp?bbs_idx=723&bbs_code=1&bbs_class=&bbs_search_type=1&bbs_search_word=&page=1)|Chuncheon, Korea (Nov. 2023)|Poster|
   |2nd|[노인 난청인 대상의 청능 훈련용 어플리케이션 개발](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11714772)|[HCI 2024](https://conference.hcikorea.org/hcik2024/main/main.asp)|Hongcheon, Korea (Feb. 2024)|Poster|
 
   <br>
