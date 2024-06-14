@@ -67,14 +67,15 @@ Languages<br>
     
    
        
-     - Unity 3D/Runner/Action
-     - 날아오는 글자를 타이핑을 쳐서 파괴하며 전진하는 게임
 
-       <br><br><br><br>
+       <br><br>
    - - -
    
   <details><summary>정리 예정(메인 X)</summary>
+    
    - [**Word Runner**](https://github.com/Mellow1213/Word-Runner)
+     - Unity 3D/Runner/Action
+     - 날아오는 글자를 타이핑을 쳐서 파괴하며 전진하는 게임
    
    - [**Zland**](https://github.com/Mellow1213/ZLand_Source)
      - Unity 3D/FPS/Survival/Escape Room
