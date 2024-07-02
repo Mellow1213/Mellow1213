@@ -1,18 +1,20 @@
 <!--- P R O F I L E   V I E W S   C O U N T E R S --->
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMellow1213&count_bg=%23B7BDD1&title_bg=%235F99BC&icon=&icon_color=%23E7E7E7&title=Profile+View&edge_flat=false)
 
-<!--- A B O U T  M E --->
-<h2>Greetings, Traveler! I'm Yechan Choi!  <img src="https://media.giphy.com/media/TjaTrZlziu73ZZzgXj/giphy.gif" width="30">
+<!--- P R O F I L E   I N T R O --->
+## Greetings, Traveler! I'm Yechan Choi!  <img src="https://media.giphy.com/media/TjaTrZlziu73ZZzgXj/giphy.gif" width="30">
 </h2>
 
-<strong>*"Carpe Diem, Memento Mori & Amor Fati"*</strong><br>
+> <strong>*"가슴에 별을 간직한 사람은 어둠 속에서 길을 잃지 않는다."*</strong> - 신형주, '별'<br>
+<br>
 
-<h2>Info</h2>
+<!--- A B O U T   M E --->
+## Info
 
-* <strong>Name</strong>: 최예찬 <br>      
+* <strong>Name</strong>: 최예찬 (Yechan Choi) <br>      
 * <strong>Major</strong>: 정보과학대학 소프트웨어학부 (한림대학교) <br>
 * <strong>Field</strong>: 게임 클라이언트(Unity & Unreal), 게임 디자인, VR/AR, 그래픽스, CS <br>       
-<!---* <strong>Contact</strong>: dpcks7282@gmail.com <br> --->
+* <strong>Contact</strong>: dpcks7282@gmail.com <br>
 
 <p align="center">
   <strong><i>~My Repositories~</i></strong>
@@ -26,27 +28,26 @@
 
 </p>
 
-
-<h2>Skills & Stacks</h2>
-
+<!--- M Y   S K I L L   A N D   T E C H   S T A C K --->
+## Skills & Stacks
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dpcks7282)](https://solved.ac/dpcks7282)
 
+
+### Game Engines<br>
 <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=unity&logoColor=FFFFFF"/></a>
+ - 5년차 / Photon / Unity DOTS / Unity Profiler / SRP & Shader Scripting    
 
-* 5년차 / Photon / Unity DOTS / Unity Profiler / SRP & Shader Scripting    
+<br>
+<a href="https://www.unrealengine.com/en-US/" target="_blank"><img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=UNREAL%20ENGINE&logoColor=FFFFFF"/></a><br>
 
-<a href="https://www.unrealengine.com/en-US/" target="_blank"><img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=UNREAL%20ENGINE&logoColor=FFFFFF"/></a>
+ - 1년차
 
-* 1년차
 <br><br>
   
-Languages<br>
-<img src="https://img.shields.io/badge/CSHARP-2C2255?style=flat-square&logo=CSHARP&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/>
+### Languages<br>
+<img src="https://img.shields.io/badge/CSHARP-2C2255?style=flat-square&logo=CSHARP&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/>
 
-<h2>Projects</h2>
+## Projects
     
 * 메인 프로젝트
     
@@ -114,11 +115,12 @@ Languages<br>
 <br>
 
 <br>
-  <h2>Awards</h2>
-  
+
+## Awards
   
   |수상|수상명|수상기관|날짜|
   |:----------|:---------:|:------:|:--------:| 
+  |🥉동상|캡스톤디자인 경진대회 (비공식 인원 참여)|한림대학교 LINC 3.0사업단|2024.06|
   |🥇금상(총장상)|SW Week SW 동아리 전시회|한림대학교 SW사업단|2023.11|
   |🥉장려상|2023 (사)한국청각언어재활학회 제26차 학술대회|(사)한국청각언어재활학회|2023.11|
   |🥇우수학부포스터상|2023 KCGS Conference|한국컴퓨터그래픽스학회|2023.07|  
@@ -126,7 +128,7 @@ Languages<br>
   |🥉장려상|SW캡스톤디자인 경진대회|한림대학교 SW사업단|2023.06| 
   |🥉장려상|SW캡스톤디자인 경진대회|한림대학교 SW사업단|2023.06|
   |🥈은상|학술동아리 C.愛.랑 30주년 & SW전시회|한림대학교 SW동아리 C.愛.랑|2022.11|
-  |🥉장려상|공대인의 날 서공제 구현 부문|한림대학교 소프트웨어학부 2022 학생회|2022.11| 
+  |🥉장려상|공대인의 날 서공제 구현 부문|한림대학교 소프트웨어학부 2022 학생회|2022.11|
 
 <br>
   <h2>Papers (Undergraduate)</h2>
@@ -141,39 +143,43 @@ Languages<br>
   |4th+|청각시간분석 훈련 어플리케이션 개발 및 적용 연구|[제 26차 (사)한국청각언어재활학회 학술대회](http://www.audiologykorea.kr/mall/customer/bbs_view.asp?bbs_idx=723&bbs_code=1&bbs_class=&bbs_search_type=1&bbs_search_word=&page=1)|Chuncheon, Korea (Nov. 2023)|Poster|
   |2nd|[노인 난청인 대상의 청능 훈련용 어플리케이션 개발](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11714772)|[HCI 2024](https://conference.hcikorea.org/hcik2024/main/main.asp)|Hongcheon, Korea (Feb. 2024)|Poster|
 
+
   <br>
   <h2>Research Projects</h2>
 
-  <strong>GVE Lab.</strong>
+  <strong>[GVE Lab.](https://sites.google.com/view/gvelab/home)</strong>
   - 인공지능 기반 초실감 산림 환경(VERAH) 및 HMD/Non-HND 트레드밀 산림치유 시스템 개발 (중견과제)
     - 수행 기간: 2022.08 ~ 2023.08 (비공식: ~2023.12)
   - 핵융합 디지털 트윈을 위한 플라즈마의 3차원 가시화 및 시뮬레이션 데이터 분석 기술 개발 (중견과제)
     - 수행 기간: 2023.04 ~ 2023.08
   - 난청 노인을 위한 ICT 기반 중추청각인지 재활 콘텐츠 구축
     - 수행 기간: (비공식: 2023.04 ~ 2024.01)
-  - 2023년 강원 VRAR제작거점센터 운영 사업
+  - 2023년 강원 VRAR제작거점센터 운영 사업 특강 조교
     - 수행 기간: 2023.03 ~ 2023.12
+  - 2023년 도제식 학부 연구생 프로그램 참여
+    - 주제: Unity를 사용한 VR 메타버스 콘텐츠 및 환경 구현
+    - 수행 기간: 2023.04 ~ 2023.09
+  - 2022년 도제식 학부 연구생 프로그램 참여
+    - 주제: 그래픽스 응용 이론 및 실습
+    - 수행 기간: 2022.07 ~ 2023.11
 
 
-  
   <br>
   <h2>Groups & Leadership</h2>
    
    - 2023
-     - SW 학술동아리 C.愛.랑 **31대 회장**
-     - 소프트웨어학부 SW멘토링 **멘토** (C# & Unity 3D)
-     - GVE Lab. 중추 청각 인지 재활 앱 과제 **Develop PM**
-     - 강원 VR/AR 제작거점센터 정기교육 **조교**
+     - SW 학술동아리 C.愛.랑 31대 회장
+     - 소프트웨어학부 SW멘토링 멘토 (C# & Unity 3D)
+     - GVE Lab. 중추 청각 인지 재활 앱 과제 Develop PM
+     - 강원 VR/AR 제작거점센터 정기교육 조교
      - 2023-1 도제식 학부 연구생 프로그램 참여
    - 2022
-     - 동아리 C.愛.랑 **라온(게임개발) 팀장**
-     - 소프트웨어학부 SW멘토링 **멘토** (Unity 3D & Game Design)
+     - 동아리 C.愛.랑 라온(게임개발) 팀장
+     - 소프트웨어학부 SW멘토링 멘토 (Unity 3D & Game Design)
      - GVE Lab. 학부 연구생 등록
-     - 2022-2 도제식 학부 연구생 프로그램 참
+     - 2022-2 도제식 학부 연구생 프로그램 참여
    - 2020
      - 한림대학교 소프트웨어학부 SW 학술동아리 C.愛.랑 입부
-
-  
 
 - - -
 
