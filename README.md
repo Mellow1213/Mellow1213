@@ -17,7 +17,7 @@
 * <strong>Contact</strong>: dpcks7282@gmail.com <br>
 
 <p align="center">
-  <strong><i>~My Repositories~</i></strong>
+  <strong><i>~Click to View My Repositories~</i></strong>
 
 <p align="center">
 <a href= "https://www.linkedin.com/in/mellow1213/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
