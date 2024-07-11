@@ -31,7 +31,7 @@
 <!--- M Y   S K I L L   A N D   T E C H   S T A C K --->
 ## Skills & Stacks
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dpcks7282)](https://solved.ac/dpcks7282)
-
+![dpcks7282 profile](http://mazandi.herokuapp.com/api?handle=dpcks7282&theme=warm)   
 
 ### Game Engines<br>
 <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=unity&logoColor=FFFFFF"/></a>
