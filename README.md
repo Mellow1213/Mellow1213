@@ -9,7 +9,7 @@
 <br>
 
 <!--- A B O U T   M E --->
-## Info
+# Info
 
 * <strong>Name</strong>: 최예찬 (Yechan Choi) <br>      
 * <strong>Major</strong>: 정보과학대학 소프트웨어학부 (한림대학교) <br>
@@ -29,7 +29,8 @@
 </p>
 
 <!--- M Y   S K I L L   A N D   T E C H   S T A C K --->
-## Skills & Stacks
+# Skills & Stacks
+### Algorithm Solve
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dpcks7282)](https://solved.ac/dpcks7282)
 ![dpcks7282 profile](http://mazandi.herokuapp.com/api?handle=dpcks7282&theme=warm)   
 
@@ -47,7 +48,7 @@
 ### Languages<br>
 <img src="https://img.shields.io/badge/CSHARP-2C2255?style=flat-square&logo=CSHARP&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=FFFFFF"/>
 
-## Projects
+# Projects
     
 * 메인 프로젝트
     
@@ -116,7 +117,7 @@
 
 <br>
 
-## Awards
+# Awards
   
   |수상|수상명|수상기관|날짜|
   |:----------|:---------:|:------:|:--------:| 
