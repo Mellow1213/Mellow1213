@@ -11,9 +11,10 @@
 <!--- A B O U T   M E --->
 # Info
 
-* <strong>Name</strong>: 최예찬 (Yechan Choi) <br>      
-* <strong>Major</strong>: 정보과학대학 소프트웨어학부 (한림대학교) <br>
-* <strong>Field</strong>: 게임 클라이언트(Unity & Unreal), 게임 디자인, VR/AR, 그래픽스, CS <br>       
+* <strong>Name</strong>: 최예찬 / Yechan Choi <br>      
+* <strong>Major</strong>: 정보과학대학 소프트웨어학부 (한림대학교) / Department of Software, College of Information Science at Hallym University<br>
+* <strong>Field</strong>: 게임 클라이언트 개발, 게임 디자인, VR/AR, 그래픽스 / Game Client Develop, Game Design, VR/AR, Computer Graphics<br>       
+* <strong>Currently At</strong>: 군복무 수행 중(사회복무요원) / Serving in the Military as a Social Service Personnel <br>       
 * <strong>Contact</strong>: dpcks7282@gmail.com <br>
 
 <p align="center">
