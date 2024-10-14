@@ -7,13 +7,17 @@
 
 > <strong>*"가슴에 별을 간직한 사람은 어둠 속에서 길을 잃지 않는다."*</strong> - 신형주, '별'<br>
 <br>
-이런 저런 미사여구가 아닌 직접 실력으로 보여주는 프로그래머가 되기 위해 노력하고 있습니다 :)<br><br>
+
+> 말뿐이 아닌 실력으로 보여주는 게임 디자이너 & 프로그래머가 되기 위해 노력하고 있습니다 :)<br>
+> 최근에는 CS 및 기초 언어 공부, 포트폴리오 제작에 집중하고 있습니다!
+
+<br><br>
 <!--- A B O U T   M E --->
 # Info
 
 * <strong>Name</strong>: 최예찬 / Yechan Choi <br>      
-* <strong>Major</strong>: 정보과학대학 소프트웨어학부 (한림대학교)<br>
-* <strong>Field</strong>: 게임 클라이언트 개발, 게임 디자인, VR/AR, 그래픽스<br>       
+* <strong>Major</strong>: 정보과학대학 소프트웨어학부 콘텐츠IT전공 (한림대학교)<br>
+* <strong>Field</strong>: 게임 클라이언트&콘텐츠 개발, 게임 디자인, VR/AR, 그래픽스<br>       
 * <strong>Contact</strong>: dpcks7282@gmail.com <br>
 
 <p align="center">
