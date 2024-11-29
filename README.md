@@ -37,12 +37,13 @@
 
 ### Game Engines<br>
 <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/UNITY-000000?style=flat-square&logo=unity&logoColor=FFFFFF"/></a>
- - 5년차 / Photon / Unity DOTS / Unity Profiler / SRP & Shader Scripting    
+- 멀티플레이 시스템 구현 by Photon
+- Data-Oriented 프로그래밍 및 시스템 구현 by Unity DOTS
+- Unity Profiler
 
 <br>
 <a href="https://www.unrealengine.com/en-US/" target="_blank"><img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=UNREAL%20ENGINE&logoColor=FFFFFF"/></a><br>
-
- - 1년차
+- 언리얼 C++ 기초 학습 중
 
 <br><br>
   
@@ -176,7 +177,7 @@
      - 강원 VR/AR 제작거점센터 정기교육 조교
      - 2023-1 도제식 학부 연구생 프로그램 참여
    - 2022
-     - 동아리 C.愛.랑 라온(게임개발) 팀장
+     - SW 학술동아리 C.愛.랑 라온(게임개발) 교육 팀장
      - 소프트웨어학부 SW멘토링 멘토 (Unity 3D & Game Design)
      - GVE Lab. 학부 연구생 등록
      - 2022-2 도제식 학부 연구생 프로그램 참여
