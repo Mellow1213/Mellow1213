@@ -15,6 +15,7 @@
 * <strong>Major</strong>: 정보과학대학 소프트웨어학부 콘텐츠IT전공 (한림대학교)<br>
 * <strong>Field</strong>: 게임 클라이언트&콘텐츠 개발, 게임 디자인, VR/AR, 그래픽스<br>       
 * <strong>Contact</strong>: dpcks7282@gmail.com <br>
+* <strong>Recently Interests</strong>: Studying about __Modern C++__, __Data Structure__ & __Algorithm__, __Unreal Engine__<br>
 
 <p align="center">
   <strong><i>~Click to View My Repositories~</i></strong>
